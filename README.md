@@ -1,2 +1,2 @@
-# -giuseppedipalma.github.io
+# giuseppedipalma.github.io
 Personal WebSite
