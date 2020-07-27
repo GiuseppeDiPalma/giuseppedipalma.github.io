@@ -3,13 +3,15 @@ metadata:
   title: index
   author:
   - Giuseppe Di Palma
-  title-prefix: ">_GDP  "
+  title-prefix: ">_ GDP  "
   page:
     resources:
       css:
         - "./css/index.css"
       js:
+        - "./js/dynamics.js"
         - "./js/tinycolor.js"
+        - "./js/mv.es5.js"
     contents:
       contacts:
         name: Giuseppe Di Palma
@@ -23,17 +25,11 @@ metadata:
         - If you have any questions, contact me. 
         - ❤️
       articles:
-        - link: ./articles/11bc457f-07c7-4e06-84f7-c5dbceec14ec.html
-          title: Ethical Hackers Contest #1
-        - link: ./articles/1ccbbf19-5584-4a05-8280-fdc64ae19d9a.html
-          title: Covid19 Malware Reverse
-        - link: ./articles/66ac173b-0e9f-418f-9b9f-97fa04578c90.html
-          title: How this website is made
-        - link: https://medium.com/@antonioblescia/coronavirussafetymeasures-pdf-exe-d14e977bf415
-          title: CoronaVirusMalware.exe Analysis
+        - link: https://www.google.it/
+          title: Google
       aboutme:
-        - link: https://www.panettipitagora.gov.it/qs/index.php/blog/148-quando-la-scuola-funziona-davvero
-          title: Quando la scuola funziona davvero
+        - link: https://www.google.it/
+          title: Google
       repos:
         - link: https://github.com/nocommentlab/ARPExfiltrator
           title: ARPExfiltrator
