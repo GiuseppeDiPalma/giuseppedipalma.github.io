@@ -1,0 +1,41 @@
+---
+metadata:
+  title: index
+  author:
+  - Giuseppe Di Palma
+  title-prefix: ">_GDP  "
+  page:
+    resources:
+      css:
+        - "./css/index.css"
+      js:
+        - "./js/tinycolor.js"
+    contents:
+      contacts:
+        name: Giuseppe Di Palma
+        shortdescription: System Engineer & Software Development
+        twitter: '#'
+        email: dipalmagiuseppe1@gmail.com
+      introduction:
+        - Hi everybody! My name is Giuseppe, I'm a 25-year old geek from Southern Italy (Naples). 
+        - This is my personal website. You can read here, everything that I study and experience at this time of my life. 
+        - If you find what I write, or what I publish, or what I study, or what I experience interesting, let me know with a Thank you! 
+        - If you have any questions, contact me. 
+        - ❤️
+      articles:
+        - link: ./articles/11bc457f-07c7-4e06-84f7-c5dbceec14ec.html
+          title: Ethical Hackers Contest #1
+        - link: ./articles/1ccbbf19-5584-4a05-8280-fdc64ae19d9a.html
+          title: Covid19 Malware Reverse
+        - link: ./articles/66ac173b-0e9f-418f-9b9f-97fa04578c90.html
+          title: How this website is made
+        - link: https://medium.com/@antonioblescia/coronavirussafetymeasures-pdf-exe-d14e977bf415
+          title: CoronaVirusMalware.exe Analysis
+      aboutme:
+        - link: https://www.panettipitagora.gov.it/qs/index.php/blog/148-quando-la-scuola-funziona-davvero
+          title: Quando la scuola funziona davvero
+      repos:
+        - link: https://github.com/nocommentlab/ARPExfiltrator
+          title: ARPExfiltrator
+      partners:
+        - assets/images/150.png
