@@ -18,11 +18,12 @@ metadata:
         shortdescription: System Engineer & Software Development
         twitter: '#'
         email: dipalmagiuseppe1@gmail.com
+        linkedin: https://www.linkedin.com/in/dplmgspp/
+        github: https://github.com/GiuseppeDiPalma
       introduction:
-        - Hi everybody! My name is Giuseppe, I'm a 25-year old geek from Southern Italy (Naples). 
-        - This is my personal website. You can read here, everything that I study and experience at this time of my life. 
-        - If you find what I write, or what I publish, or what I study, or what I experience interesting, let me know with a Thank you! 
-        - If you have any questions, contact me. 
+        - Hi everybody! My name is Giuseppe, I'm a 25-year old geek from Southern Italy (Naples). This is my personal website. 
+        - You can read here, everything that I study and experience at this time of my life. If you find what I write, or what I publish, or what I study, or what I experience interesting, let me know with a Thank you!
+        - If you have any questions, contact me.
         - ❤️
       articles:
         - link: https://www.google.it/
