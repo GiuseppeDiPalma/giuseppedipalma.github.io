@@ -1,9 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap');
 
 * {
   margin: 0;
   padding: 0;
-  font-family: "Ubuntu", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial;
+  font-family: "Ubuntu", "HelveticaNeue", "Helvetica Neue", 'IBM Plex Mono', monospace, Helvetica, Arial;
   -webkit-user-select: none;
   user-select: none;
 }
@@ -24,10 +25,19 @@ body {
   min-height: 100%;
 }
 
+#h1exclude {
+  font-weight: normal;
+  font-size: 23px;
+  /*color: rgb(216, 211, 211);*/
+  color: rgb(255, 255, 0);
+}
+
 h1 {
+  font-family: 'IBM Plex Mono';
   font-weight: normal;
   font-size: 25px;
-  color: rgb(216, 211, 211);
+  /*color: rgb(216, 211, 211);*/
+  color: rgb(255,255,0);
 }
 
 h2 {

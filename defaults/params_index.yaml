@@ -3,7 +3,7 @@ metadata:
   title: index
   author:
   - Giuseppe Di Palma
-  title-prefix: ">_ Space"
+  title-prefix: ">_ gdp: "
   page:
     resources:
       css:
