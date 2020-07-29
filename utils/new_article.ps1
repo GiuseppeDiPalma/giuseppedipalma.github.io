@@ -22,20 +22,23 @@ function New-Article {
     title: $ArticleName
     author:
     - Giuseppe Di Palma
-    title-prefix: ">_GDP  "
+    title-prefix: ">_ gdp: "
     page:
       resources:
         css:
-          - "../css/index.css"
-          - "../css/article.css"
+          - "./css/index.css"
         js:
-          - "../js/tinycolor.js"
+          - "./js/dynamics.js"
+          - "./js/tinycolor.js"
+          - "./js/mv.es5.js"
       contents:
         contacts:
           name: Giuseppe Di Palma
           shortdescription: System Engineer & Software Development
-          twitter: '#'
+          twitter: https://twitter.com/DiGiuseppePalma
           email: dipalmagiuseppe1@gmail.com
+          linkedin: https://www.linkedin.com/in/dplmgspp/
+          github: https://github.com/GiuseppeDiPalma
 "@
 
   # Generates the new article UUID
