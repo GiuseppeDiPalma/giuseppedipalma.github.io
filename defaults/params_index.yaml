@@ -22,17 +22,27 @@ metadata:
         github: https://github.com/GiuseppeDiPalma
       introduction:
         - Hi everybody! My name is Giuseppe, I'm a 25-year old geek from Southern Italy (Naples). This is my personal website. 
-        - You can read here, everything that I study and experience at this time of my life. If you find what I write, or what I publish, or what I study, or what I experience interesting, let me know with a Thank you!
-        - If you have any questions, contact me.
-        - ❤️
-      articles:
-        - link: https://www.google.it/
-          title: Google
+        - I am currently completing my master's degree in cloud computing at the University of Salerno.
+        - I'm a fan of independent music and in free time I practice juggling.
+        - Everything you need to know about me will be available on these pages. I hope you like it. 😋
+      collaborations:
+        - link: https://www.lerane.net/
+          title: Le Rane [Popular italian independent music magazine]
+        - link: https://radiolaruota.it/
+          title: Radio la Ruota [Podcast of independent music]
       aboutme:
         - link: https://www.google.it/
           title: Google
       repos:
-        - link: https://github.com/nocommentlab/ARPExfiltrator
-          title: ARPExfiltrator
+        - link: https://github.com/GiuseppeDiPalma/
+          title: DSRC Apache Hadoop integration [Advanced operating systems]
+        - link: https://github.com/GiuseppeDiPalma/SCIOT-PROG
+          title: Domotic Garden [Serverless computing for iot]
+        - link: https://github.com/GiuseppeDiPalma/PCPC-PROG
+          title: MPI Words Count [Parallel and Cloud Programming]
+        - link: https://github.com/GiuseppeDiPalma/Azure-Cogito-Storage
+          title: Azure Cogito Storage [Cloud Computing]
+        - link: https://github.com/GiuseppeDiPalma/WebApp-GA
+          title: Web application with genetic algorithm
       partners:
         - assets/images/150.png
