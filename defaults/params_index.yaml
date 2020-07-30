@@ -25,14 +25,14 @@ metadata:
         - I am currently completing my master's degree in cloud computing at the University of Salerno.
         - I'm a fan of independent music and in free time I practice juggling.
         - Everything you need to know about me will be available on these pages. I hope you like it. 😋
-      articles:
+      myresources:
         - link: \#
-          title: coming soon
+          title: 📑 Curriculum Vitae [Coming Soon]
       collaborations:
         - link: https://www.lerane.net/
-          title: Le Rane [Popular italian independent music magazine]
+          title: 🐸 Le Rane [Popular italian independent music magazine]
         - link: https://radiolaruota.it/
-          title: Radio la Ruota [Podcast of independent music]
+          title: 📻 Radio la Ruota [Podcast of independent music]
       repos:
         - link: https://github.com/GiuseppeDiPalma/
           title: DSRC Apache Hadoop integration [Advanced operating systems]
