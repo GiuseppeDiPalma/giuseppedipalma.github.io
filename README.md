@@ -2,4 +2,4 @@
 
 ## Coming soon "HOW TO"
 
-Pandoc + Markdown + Script + HTML5 + CSS + VSCODE = ❤️
+Pandoc + Markdown + Script + HTML5 + CSS * VSCODE = ❤️
