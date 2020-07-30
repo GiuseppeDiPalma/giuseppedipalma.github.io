@@ -96,10 +96,10 @@
 					$endfor$
 				</section>
 				<section id="articles">
-					<h1>My resources</h1>
+					<h1>Resources</h1>
 					<ul>
 						$for(page.contents.myresources)$
-						<li><a href="$page.contents.articles.link$">$page.contents.myresources.title$</a></li>
+						<li><a href="$page.contents.myresources.link$" target="_blank">$page.contents.myresources.title$</a></li>
 						$endfor$
 					</ul>
 				</section>
@@ -107,7 +107,7 @@
 					<h1>Collaborations</h1>
 					<ul>
 						$for(page.contents.collaborations)$
-						<li><a href="$page.contents.aboutme.link$">$page.contents.collaborations.title$</a></li>
+						<li><a href="$page.contents.collaborations.link$" target="_blank">$page.contents.collaborations.title$</a></li>
 						$endfor$
 					</ul>
 				</section>
@@ -115,16 +115,16 @@
 					<h1>Repositories</h1>
 					<ul>
 						$for(page.contents.repos)$
-						<li><a href="$page.contents.repos.link$">$page.contents.repos.title$</a></li>
+						<li><a href="$page.contents.repos.link$" target="_blank">$page.contents.repos.title$</a></li>
 						$endfor$
 					</ul>
 				</section>
 				<section id="partners">
-					<h1>Partners</h1>
+					<h1>Others</h1>
 					<div class="row">
 						$for(page.contents.partners)$
 						<div class="column">
-							<img src="$page.contents.partners$" width="128px" />
+							<!-- <img src="$page.contents.partners$" width="128px" /> -->
 						</div>
 						$endfor$
 					</div>
