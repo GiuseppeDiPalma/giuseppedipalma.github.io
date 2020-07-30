@@ -1,2 +1,2 @@
 # giuseppedipalma.github.io
-Personal WebSite
+Pandoc + Markdown + Script + HTML5 + CSS + VSCODE = ❤️
