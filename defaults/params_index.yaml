@@ -46,6 +46,6 @@ metadata:
         - link: https://github.com/GiuseppeDiPalma/Azure-Cogito-Storage
           title: Azure Cogito Storage [Cloud Computing]
         - link: https://github.com/GiuseppeDiPalma/WebApp-GA
-          title: Web application with genetic algorithm
+          title: Genetic algorithm [Bachelor thesis]
       partners:
         - assets/images/150.png
