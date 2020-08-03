@@ -5,10 +5,9 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<meta charset="utf-8" />
 	<link rel="icon" type="image/png" href="/images/favicon.png">
-	$for(page.resources.css)$
-	<link rel="stylesheet" href="$page.resources.css$" />
-	$endfor$
-	<title>$if(title-prefix)$$title-prefix$ – $endif$$pagetitle$</title>
+		<link rel="stylesheet" href="../css/index.css" />
+		<link rel="stylesheet" href="../css/article.css" />
+		<title>&gt;_ gdp:  – Setting</title>
 
 	<!-- Chrome, Firefox OS and Opera -->
 	<meta name="theme-color" content="#000000">
@@ -30,7 +29,6 @@
 		gtag('config', 'UA-91610675-6');
 	</script>
 	<!-- Global site tag (gtag.js) - Google Analytics -->
-
 </head>
 
 <body>
@@ -40,7 +38,6 @@
 	</svg>
 	<div id="page">
 		<div>
-			<!--QUESTO è IL CODICE PER IL LOGO E LA SCRITTA A SINISTRA-->
 			<header>
 				<div id="header-content">
 					<div id="header-logo">
@@ -62,11 +59,11 @@
 							</g>
 						</svg>
 					</div>
-					<h1 id="h1exclude">$if(page.contents.contacts.name)$$page.contents.contacts.name$$endif$</h1>
-					<p>$if(page.contents.contacts.shortdescription)$$page.contents.contacts.shortdescription$$endif$</p>
+					<h1 id="h1exclude">Giuseppe Di Palma</h1>
+					<p>System Engineer &amp; Software Development</p>
 					<div id="contact">
-						<a href="$if(page.contents.contacts.linkedin)$$page.contents.contacts.linkedin$$endif$"
-							target="_blank"><svg viewBox="0 0 42 36" xmlns="http://www.w3.org/2000/svg">
+						<a href="https://www.linkedin.com/in/dplmgspp/" target="_blank"><svg
+								viewBox="0 0 42 36" xmlns="http://www.w3.org/2000/svg">
 								<path d="M18.5,0C8.3,0,0,8.3,0,18.5s8.3,18.5,18.5,18.5s18.5-8.3,18.5-18.5S28.7,0,18.5,0z M13.1,27.9H8.6V14.4h4.5
 									V27.9z
 									M10.8,12.5L10.8,12.5c-1.5,0-2.5-1-2.5-2.3c0-1.3,1-2.3,2.5-2.3s2.5,1,2.5,2.3C13.4,11.5,12.4,12.5,10.8,12.5z
@@ -74,8 +71,8 @@
 									h-4.5v-7.2c0-1.8-0.7-3.1-2.3-3.1c-1.2,0-2,0.8-2.3,1.6c-0.1,0.3-0.1,0.7-0.1,1.1v7.6h-4.5c0,0,0.1-12.3,0-13.5h4.5v1.9
 									c0.6-0.9,1.7-2.2,4.1-2.2c3,0,5.2,1.9,5.2,6.1V27.9z" />
 							</svg></a>
-						<a href="$if(page.contents.contacts.github)$$page.contents.contacts.github$$endif$"
-							target="_blank" id="email"><svg viewBox="0 0 42 36" xmlns="http://www.w3.org/2000/svg">
+						<a href="https://github.com/GiuseppeDiPalma" target="_blank"
+							id="email"><svg viewBox="0 0 42 36" xmlns="http://www.w3.org/2000/svg">
 								<path
 									d="M19.8,0C8.9,0,0,8.7,0,19.5C0,28.1,5.7,35.4,13.6,38c1,0.2,1.4-0.4,1.4-0.9c0-0.5,0-1.7,0-3.3
 									c-5.5,1.2-6.7-2.6-6.7-2.6C7.3,28.9,6,28.3,6,28.3c-1.8-1.2,0.1-1.2,0.1-1.2c2,0.1,3,2,3,2c1.8,3,4.6,2.1,5.8,1.6
@@ -85,8 +82,8 @@
 							</svg></a>
 					</div>
 					<div id="contact">
-						<a href="mailto:$if(page.contents.contacts.email)$$page.contents.contacts.email$$endif$"
-							id="email"><svg viewBox="0 0 42 36" xmlns="http://www.w3.org/2000/svg">
+						<a href="mailto:dipalmagiuseppe1@gmail.com" id="email"><svg
+								viewBox="0 0 42 36" xmlns="http://www.w3.org/2000/svg">
 								<path d="M37.3,0H5C2.3,0,0,2.3,0,5.1v23.7c0,2.8,2.3,5.1,5,5.1h32.2c2.8,0,5-2.3,5-5.1V5.1C42.3,2.3,40,0,37.3,0z
 									M37.3,29.3H5c-0.4,0-0.8-0.3-0.8-0.6V8.2l14.6,13c0.3,0.3,0.7,0.4,1.1,0.4l2.5,0c0.4,0,0.8-0.1,1.1-0.4L38,8.2v20.5
 									C38,29.1,37.7,29.3,37.3,29.3z M21.1,17.1L7,4.5h28.4L21.1,17.1z" />
@@ -94,69 +91,18 @@
 					</div>
 				</div>
 			</header>
-			<!--QUESTO è IL CODICE PER IL LOGO E LA SCRITTA A SINISTRA-->
 			<div id="content">
-				<section id="introduction">
-					<h1>Intro</h1>
-					$for(page.contents.introduction)$
-					$page.contents.introduction$<br>
-					$endfor$
-				</section>
-
-				<section id="articles">
-					<h1>Resources</h1>
-					<ul>
-						$for(page.contents.myresources)$
-						<li><a href="$page.contents.myresources.link$" target="_blank">$page.contents.myresources.title$</a></li>
-						$endfor$
-					</ul>
-				</section>
-
-				<section id="guides">
-					<h1>How-to guides</h1>
-					<ul>
-						$for(page.contents.guides)$
-						<li><a href="$page.contents.guides.link$" target="_blank">$page.contents.guides.title$</a></li>
-						$endfor$
-					</ul>
-				</section>
-
-				<section id="aboutme">
-					<h1>Collaborations</h1>
-					<ul>
-						$for(page.contents.collaborations)$
-						<li><a href="$page.contents.collaborations.link$" target="_blank">$page.contents.collaborations.title$</a></li>
-						$endfor$
-					</ul>
-				</section>
-
-				<section id="repositories">
-					<h1>Repositories</h1>
-					<ul>
-						$for(page.contents.repos)$
-						<li><a href="$page.contents.repos.link$" target="_blank">$page.contents.repos.title$</a></li>
-						$endfor$
-					</ul>
-				</section>
-
-				<section id="partners">
-					<h1>Others</h1>
-					<div class="row">
-						$for(page.contents.partners)$
-						<div class="column">
-							<!-- <img src="$page.contents.partners$" width="128px" /> -->
-						</div>
-						$endfor$
-					</div>
-				</section>
+				<section id="article">
+															<h1 id="setting-java-home-in-linux">Setting Java Home in linux</h1>
+               <p><img src="https://picsum.photos/800/300" /></p>
+               <h2 id="the-first-guide-is-written-only-to-test-and-set-the-guide-structure-of-all-articles.">The first guide is written only to test and set the guide structure of all articles.</h2>
+               <p>The Java Home is the folder where the JAVA binaries are located and the relative path of all the useful libraries. This guide is useful for setting up java home for ‘all users’.</p>
+									</section>
 			</div>
 		</div>
-	</div>
-	</div>
-	<svg id="page-stripes" class="full-size" width="100%" height="100%" version="1.1" xmlns="http://www.w3.org/2000/svg"
-		xmlns:xlink="http://www.w3.org/1999/xlink"></svg>
-	<!--QUESTO è IL CODICE PER L'INTRO CON IL LOGO GIGANTE A TUTTA PAGINA-->
-	<div id="intro" class="full-size">
+		<svg id="page-stripes" class="full-size" width="100%" height="100%" version="1.1"
+			xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"></svg>
+		<div id="intro" class="full-size">
 		<div id="logo-container" class="full-size">
 			<svg id="logo" width="80" height="80" viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg"
 				preserveAspectRatio="xMidYMid meet">
@@ -178,11 +124,11 @@
 		</div>
 		<svg id="stripes" class="full-size" width="100%" height="100%" version="1.1" xmlns="http://www.w3.org/2000/svg"
 			xmlns:xlink="http://www.w3.org/1999/xlink"></svg>
-	</div>
-	<!--QUESTO è IL CODICE PER L'INTRO CON IL LOGO GIGANTE A TUTTA PAGINA-->
-	$for(page.resources.js)$
-	<script src="$page.resources.js$"></script>
-	$endfor$
+		</div>
+				<script src="../js/dynamics.js"></script>
+				<script src="../js/tinycolor.js"></script>
+				<script src="../js/mv.es5.js"></script>
+		
 </body>
 
 </html>

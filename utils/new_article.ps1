@@ -26,11 +26,12 @@ function New-Article {
     page:
       resources:
         css:
-          - "./css/index.css"
+          - "../css/index.css"
+          - "../css/article.css"
         js:
-          - "./js/dynamics.js"
-          - "./js/tinycolor.js"
-          - "./js/mv.es5.js"
+          - "../js/dynamics.js"
+          - "../js/tinycolor.js"
+          - "../js/mv.es5.js"
       contents:
         contacts:
           name: Giuseppe Di Palma
