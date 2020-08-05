@@ -28,6 +28,7 @@ function New-Article {
         css:
           - "../css/index.css"
           - "../css/article.css"
+          - "../css/code.css"
         js:
           - "../js/dynamics.js"
           - "../js/tinycolor.js"
@@ -43,11 +44,22 @@ function New-Article {
 "@
 
   # Generates the new article UUID
-  $uuid_article = [guid]::NewGuid().Guid
+  # $uuid_article = [guid]::NewGuid().Guid
+  # Generates article name
+
+  $dateArticle = Get-Date -Format "dd-MM-yy"
+  $article_name = $ArticleName +"-"+ $dateArticle
+  $article_link = ".\articles\"+$article_name+".html"
+
+  # Generated link to upload in params_index.yaml
+  Write-Host "The new article have this name: "$article_name
+  # Generated link to upload in params_index.yaml
+  Write-Host "The new article have this link: "$article_link
+
   # Creates the params article file
-  $article_params_template | Out-File -Encoding "UTF8" ..\defaults\params_$uuid_article.yaml
+  $article_params_template | Out-File -Encoding "UTF8" ..\defaults\params_$article_name.yaml
   # Creates the article and append the title
-  "# $($ArticleName)" | Out-File -Encoding "UTF8" ..\articles\$uuid_article.md
+  "# $($article_name)" | Out-File -Encoding "UTF8" ..\articles\$article_name.md
 }
 
 New-Article -ArticleName $args[0]

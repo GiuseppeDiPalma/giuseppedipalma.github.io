@@ -7,7 +7,8 @@
 	<link rel="icon" type="image/png" href="/images/favicon.png">
 		<link rel="stylesheet" href="../css/index.css" />
 		<link rel="stylesheet" href="../css/article.css" />
-		<title>&gt;_ gdp:  – Setting</title>
+		<link rel="stylesheet" href="../css/code.css" />
+		<title>&gt;_ gdp:  – setting-java-home-linux</title>
 
 	<!-- Chrome, Firefox OS and Opera -->
 	<meta name="theme-color" content="#000000">
@@ -93,10 +94,23 @@
 			</header>
 			<div id="content">
 				<section id="article">
-															<h1 id="setting-java-home-in-linux">Setting Java Home in linux</h1>
+															<h1 id="setting-java_home-in-linux">Setting JAVA_HOME in linux</h1>
                <p><img src="https://picsum.photos/800/300" /></p>
                <h2 id="the-first-guide-is-written-only-to-test-and-set-the-guide-structure-of-all-articles.">The first guide is written only to test and set the guide structure of all articles.</h2>
-               <p>The Java Home is the folder where the JAVA binaries are located and the relative path of all the useful libraries. This guide is useful for setting up java home for ‘all users’.</p>
+               <p>The Java Home is the folder where the JAVA binaries are located and the relative path of all the useful libraries. This guide is useful for setting up java home for all users.</p>
+               <p>After installing java, let’s check the installation and the version:</p>
+               <div class="sourceCode" id="cb1"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1"></a><span class="ex">java</span> -version</span></code></pre></div>
+               <p>Next, find the JAVA installation folder, copy result path:</p>
+               <div class="sourceCode" id="cb2"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb2-1"><a href="#cb2-1"></a><span class="fu">find</span> /usr/lib/jvm/java-1.x.x-openjdk</span></code></pre></div>
+               <p>Go in /etc/profile file and write this:</p>
+               <div class="sourceCode" id="cb3"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb3-1"><a href="#cb3-1"></a><span class="ex">vi</span> /etc/profile </span>
+               <span id="cb3-2"><a href="#cb3-2"></a></span>
+               <span id="cb3-3"><a href="#cb3-3"></a>    <span class="bu">export</span> <span class="va">JAVA_HOME=</span>/usr/java/jdk1.7.0</span>
+               <span id="cb3-4"><a href="#cb3-4"></a>    <span class="bu">export</span> <span class="va">PATH=${JAVA_HOME}</span>/bin:<span class="va">${PATH}</span></span></code></pre></div>
+               <p>And give this as a command line</p>
+               <div class="sourceCode" id="cb4"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb4-1"><a href="#cb4-1"></a><span class="bu">source</span> /etc/profile</span></code></pre></div>
+               <p>To check this procedure</p>
+               <div class="sourceCode" id="cb5"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb5-1"><a href="#cb5-1"></a><span class="bu">echo</span> <span class="va">$JAVA_HOME</span></span></code></pre></div>
 									</section>
 			</div>
 		</div>
