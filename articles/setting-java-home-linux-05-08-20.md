@@ -1,8 +1,8 @@
 ﻿# Setting JAVA_HOME in linux
 
-![](https://picsum.photos/800/300)
-
 ## The first guide is written only to test and set the guide structure of all articles.
+
+![](https://picsum.photos/800/300)
 
 The Java Home is the folder where the JAVA binaries are located and the relative path of all the useful libraries. This guide is useful for setting up java home for all users. 
 

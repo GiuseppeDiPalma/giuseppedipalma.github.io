@@ -94,13 +94,30 @@
 			<div id="content">
 				<section id="article">
 															<h1 id="setting-java_home-in-linux">Setting JAVA_HOME in linux</h1>
-               <p><img src="https://picsum.photos/800/300" /></p>
                <h2 id="the-first-guide-is-written-only-to-test-and-set-the-guide-structure-of-all-articles.">The first guide is written only to test and set the guide structure of all articles.</h2>
+               <p><img src="https://picsum.photos/800/300" /></p>
                <p>The Java Home is the folder where the JAVA binaries are located and the relative path of all the useful libraries. This guide is useful for setting up java home for all users.</p>
                <p>After installing java, let’s check the installation and the version:</p>
                <div class="sourceCode" id="cb1"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb1-1"><a href="#cb1-1"></a><span class="ex">java</span> -version</span></code></pre></div>
-               <div class="sourceCode" id="cb2"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb2-1"><a href="#cb2-1"></a><span class="ex">java</span> -version</span></code></pre></div>
-               <div class="sourceCode" id="cb3"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb3-1"><a href="#cb3-1"></a><span class="bu">print</span>(<span class="st">&quot;Hello, world!&quot;</span>)</span></code></pre></div>
+               <div class="sourceCode" id="cb2">
+				   <pre class="sourceCode bash">
+					   <code class="sourceCode bash">
+						   <span id="cb2-1">
+							   <a href="#cb2-1"></a>
+							   <span class="ex">java</span> -version</span>
+							</code>
+						</pre>
+					</div>
+               <div class="sourceCode" id="cb3">
+				   <pre class="sourceCode python">
+					   <code class="sourceCode python">
+						   <span id="cb3-1">
+							   <a href="#cb3-1"></a>
+							   <span class="bu">print</span>(<span class="st">&quot;Hello, world!&quot;</span>)
+							</span>
+						</code>
+					</pre>
+				</div>
                <p>Next, find the JAVA installation folder, copy result path:</p>
                <div class="sourceCode" id="cb4"><pre class="sourceCode bash"><code class="sourceCode bash"><span id="cb4-1"><a href="#cb4-1"></a><span class="fu">find</span> /usr/lib/jvm/java-1.x.x-openjdk</span></code></pre></div>
                <p>Go in /etc/profile file and write this:</p>
