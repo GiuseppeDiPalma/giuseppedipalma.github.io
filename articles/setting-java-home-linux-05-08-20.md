@@ -7,9 +7,17 @@
 The Java Home is the folder where the JAVA binaries are located and the relative path of all the useful libraries. This guide is useful for setting up java home for all users. 
 
 After installing java, let's check the installation and the version:
-```{.bash}
+```bash
 java -version
 ```
+
+~~~bash
+java -version
+~~~
+
+~~~python
+print("Hello, world!")
+~~~
 
 Next, find the JAVA installation folder, copy result path:
 ```bash

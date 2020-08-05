@@ -28,7 +28,6 @@ function New-Article {
         css:
           - "../css/index.css"
           - "../css/article.css"
-          - "../css/code.css"
         js:
           - "../js/dynamics.js"
           - "../js/tinycolor.js"
