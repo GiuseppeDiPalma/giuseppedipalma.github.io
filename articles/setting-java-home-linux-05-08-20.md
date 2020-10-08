@@ -7,12 +7,22 @@
 The Java Home is the folder where the JAVA binaries are located and the relative path of all the useful libraries. This guide is useful for setting up java home for all users. 
 
 After installing java, let's check the installation and the version:
-```bash
+
+
+###### `Test`
+
+```
+java -version
+
+java -version
+
 java -version
 ```
-
-~~~bash
-java -version
+###### `Test`
+~~~
+java -version2
+java -version2
+java -version2
 ~~~
 
 ~~~python
@@ -20,12 +30,12 @@ print("Hello, world!")
 ~~~
 
 Next, find the JAVA installation folder, copy result path:
-```bash
+```
 find /usr/lib/jvm/java-1.x.x-openjdk
 ```
 
 Go in /etc/profile file and write this:
-```bash
+```
 vi /etc/profile 
 
 	export JAVA_HOME=/usr/java/jdk1.7.0
@@ -34,7 +44,19 @@ vi /etc/profile
 
 And give this as a command line
 ```bash
-source /etc/profile
+#!/bin/bash
+function greeting() {
+
+str="Hello, $name"
+echo $str
+
+}
+
+echo "Enter your name"
+read name
+
+val=$(greeting)
+echo "Return value of the function is $val"
 ```
 
 To check this procedure
