@@ -1,16 +1,13 @@
 name: update
-
-on:
+'on':
   schedule:
-    - cron: "0 0 * * *"
-
+    - cron: 0 0 * * *
 jobs:
   update:
     name: Update
     runs-on: windows-latest
-
-	steps:
-    - uses: actions/checkout@v1
-    - name: Run a one-line script
-      run: .\utils\build.ps1
-      shell: powershell
+steps:
+  - uses: actions/checkout@v1
+  - name: Run a one-line script
+    run: .\utils\build.ps1
+    shell: powershell
