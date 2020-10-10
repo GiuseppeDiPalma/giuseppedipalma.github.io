@@ -1,5 +1,5 @@
 name: update
-'on':
+  on:
   schedule:
     - cron: 0 0 * * *
 jobs:
