@@ -41,6 +41,8 @@ theme: gaia
 [zabbixMonitor]: img/imgReport/zabbixPIC.png
 [nagiosMonitor]: img/imgReport/nagiosPIC.png
 [targetDiscoverynmap]: img/gif/targetDiscoverywnmap.gif
+[skipfishResScanElenco]: img/imgReport/skipfishSCANblando.png
+[boxscatola]: img/gif/box.gif
 
 ![bg right:33% 40%][logounisa]
 
@@ -88,7 +90,7 @@ Studente: Di Palma Giuseppe
 
 ---
 <!-- _class: invert -->
-## Macchina attacante - Kali Linux
+## 🖥️ Macchina attacante - Kali Linux
 
 <br>
 
@@ -143,9 +145,12 @@ By [offensive security](https://www.offensive-security.com/)
 <!-- _class: invert -->
 # 3️⃣ Metodologia
 
-# da vedereee
-
+- ~~Accordo con cliente;~~
+- Obbiettivo;
 - Approccio **Gray Box**
+  - Conoscenza minima;
+
+![bg right w:200][boxscatola]
 
 ---
 
@@ -171,11 +176,11 @@ Risultato:
 
 ---
 <!-- _class: invert -->
-### ⛏️ Target discovery
+## ⛏️ Target discovery
 
 `nmap -sP 192.168.19.0/24`:
 
-![w:1000][targetDiscoverynmap]
+![w:950][targetDiscoverynmap]
 
 - L'asset risulta attivo e raggiungibile.
 
@@ -206,7 +211,7 @@ Risultato:
 *Noto sistema di monitoraggio usato in ambito enterprise per monitorare interi asset o infrastrutture, dalle performance ai servizi.*
 
 - Prendere conoscenza del tool con documentazione;
-- Controllare se account amministratore è abilitato.
+- Controllare se account amministratore è abilitato 😧.
 
 Credenziali testate:
 - admin/admin
@@ -284,7 +289,7 @@ set lhost 192.168.19.131 (kali)
 
 ---
 
-# 5️⃣ 🧰  Recap Tool utilizzati <!--fit-->
+# 5️⃣ 🧰 Tool utilizzati
 
 - Netdiscovery;
 - Ping;
@@ -302,9 +307,20 @@ set lhost 192.168.19.131 (kali)
 # 6️⃣ Riepilogo risultati <!--fit-->
 
 - Scansione Nessus;
-- Scansione web app SkipFish;
+- Scansione w.app SkipFish;
 
 ![bg right w:250][scannerGIF]
+
+---
+
+# 📃 Nessus
+
+*Tool per scansione automattizata delle vulnerabilità.*
+
+- Scansione vulnerabilità su vasta gamma di sistemi;
+- Basato su CVSS v3.0 rating;
+- Scansione completamente personalizzabile;
+- Possibilità di estendere con **plugins**.
 
 ---
 
@@ -314,11 +330,35 @@ set lhost 192.168.19.131 (kali)
 
 ---
 
+# 🐟 Skipfish
+
+*Tool per scansione automatizzata specifico per web app.*
+
+- Facile da usare;
+- Prestazioni elevate;
+- Molto versatile;
+- Permette personalizzazione report e confronto;
+
+---
+
 `Scansione web app con Skipfish:`
 
 ![bg w:1200 h:730][skipfishResScanTorta]
 
 ---
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# Nello specifico ▶️ <!--fit-->
+
+![bg right][skipfishResScanElenco]
+
+---
+
 <!-- _class: invert -->
 # 7️⃣ Rimedi & Mitigazione<!--fit-->
 
