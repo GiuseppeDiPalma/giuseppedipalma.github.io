@@ -43,6 +43,7 @@ theme: gaia
 [targetDiscoverynmap]: img/gif/targetDiscoverywnmap.gif
 [skipfishResScanElenco]: img/imgReport/skipfishSCANblando.png
 [boxscatola]: img/gif/box.gif
+[documentazione]: img/gif/documentazione.gif
 
 ![bg right:33% 40%][logounisa]
 
@@ -318,7 +319,7 @@ set lhost 192.168.19.131 (kali)
 *Tool per scansione automattizata delle vulnerabilità.*
 
 - Scansione vulnerabilità su vasta gamma di sistemi;
-- Basato su CVSS v3.0 rating;
+- Basato su CVSS v3.1 rating;
 - Scansione completamente personalizzabile;
 - Possibilità di estendere con **plugins**.
 
@@ -364,15 +365,22 @@ set lhost 192.168.19.131 (kali)
 
 - Aggiornamento del sistema;
 - Rimozione account default Nagios;
+  - O valutare cambio password;
 - Uso di certificati ssl;
 - Troppe informazioni esposte;
-- Usare sistema firewall.
+- Usare politiche firewalling.
 
 ![bg right:40% w:300][gokuSSJGIF]
 
 ---
 
-# 8️⃣ 🏁 Conclusioni 
+# 8️⃣ 🏁 Conclusioni <!--fit-->
+
+- Documentazione
+  - Come ho eseguito l'attacco e quali metodologie ho usato;
+  - Report delle vulnerabilità trovate e possibili soluzioni.
+
+![bg right w:350][documentazione]
 
 ---
 <!-- _class: invert -->
@@ -389,4 +397,5 @@ set lhost 192.168.19.131 (kali)
 4. Documentazione [Network monitoring](https://en.wikipedia.org/wiki/Network_monitoring);
 5. Manuale [Skipfish](https://tools.kali.org/web-applications/skipfish);
 6. Manuale [Nessus](https://www.tenable.com/products/nessus/nessus-essentials) by Tenable;
-7. [Marp](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode) ➕ [VScode](https://code.visualstudio.com/) per questa presentazione.
+7. Specifiche [CVSSv3.1](https://www.first.org/cvss/specification-document);
+8. [Marp](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode) ➕ [VScode](https://code.visualstudio.com/) per questa presentazione.
