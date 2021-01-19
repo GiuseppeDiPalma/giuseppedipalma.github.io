@@ -8,6 +8,7 @@ _paginate: false # no number on title slide
 size: 4k
 theme: gaia
 
+
 ---
 <!--
     Ho usato / invece di \ in questo modo
