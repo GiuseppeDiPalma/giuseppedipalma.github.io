@@ -55,7 +55,5 @@ metadata:
       guides:
         - link: .\articles\setting-java-home-linux-05-08-20.html
           title: Example guide 1
-        - link: .\articles\presentazionepentest.html
-          title: Presentazione Penetration testing(exam)
       partners:
         - assets/images/150.png
