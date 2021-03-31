@@ -55,5 +55,6 @@ metadata:
       guides:
         - link: .\articles\setting-java-home-linux-05-08-20.html
           title: Example guide 1
-      partners:
-        - assets/images/150.png
+      other:
+        - link: .\articles\
+          title: Collection of web resources
