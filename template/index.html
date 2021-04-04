@@ -115,7 +115,7 @@
             <!--QUESTO è IL CODICE PER IL LOGO E LA SCRITTA A SINISTRA-->
             <div id="content">
                <section id="introduction">
-                  <h1>Intro</h1>
+                  <h1 class="neon">Intro</h1>
                   $for(page.contents.introduction)$
                   $page.contents.introduction$<br>
                   $endfor$
@@ -129,28 +129,28 @@
                      $endfor$
                   </ul>
                </section>
-               <section id="guides">
-                  <h1>How-to guides</h1>
+               <section id="stost">
+                  <h1>[SToST] Some text on some thigs</h1>
                   <ul>
-                     $for(page.contents.guides)$
-                     <li><a href="$page.contents.guides.link$" target="_blank">$page.contents.guides.title$</a></li>
+                     $for(page.contents.stost)$
+                     <li><a href="$page.contents.stost.link$" target="_blank">$page.contents.stost.title$</a></li>
                      $endfor$
                   </ul>
                </section>
                <section id="aboutme">
+               <section id="repositories">
+                  <h1>Projects repo</h1>
+                  <ul>
+                     $for(page.contents.repos)$
+                     <li><a href="$page.contents.repos.link$" target="_blank">$page.contents.repos.title$</a></li>
+                     $endfor$
+                  </ul>
+               </section>
                   <h1>Collaborations</h1>
                   <ul>
                      $for(page.contents.collaborations)$
                      <li><a href="$page.contents.collaborations.link$"
                         target="_blank">$page.contents.collaborations.title$</a></li>
-                     $endfor$
-                  </ul>
-               </section>
-               <section id="repositories">
-                  <h1>Repositories</h1>
-                  <ul>
-                     $for(page.contents.repos)$
-                     <li><a href="$page.contents.repos.link$" target="_blank">$page.contents.repos.title$</a></li>
                      $endfor$
                   </ul>
                </section>
