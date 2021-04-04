@@ -31,9 +31,9 @@ metadata:
         - 😁 
       myresources:
         - link: .\documents\giuseppe-di-palma_ITA_resum%C3%A8.pdf
-          title: 📑 [ITA] Curriculum Vitae 🌟
-        - link: \#
-          title: 📑 [ENG] Curriculum Vitae [Coming Soon]
+          title: 📑 [ITA] Curriculum Vitae 🌟NEW🌟
+        - link: .\documents\giuseppe-di-palma_ENG_resum%C3%A8.pdf
+          title: 📑 [ENG] Curriculum Vitae 🌟NEW🌟
       collaborations:
         - link: http://www.meetingdelmare.it/
           title: 🚀 Meeting del mare [Independent musical experience]
