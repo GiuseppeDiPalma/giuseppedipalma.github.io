@@ -12,147 +12,114 @@ __For future updates, I would like to break them up into fields.__
 *To speed up the transition from bookmark to this document, I used the Firefox extension "Tree Style Tab" with addon(another firefox extension) "Copy Selected Tabs to Clipboard".*
 
 ## Resources
-[Google](http://google.com): qui scrivo qualcosa.
 
-["Official Big-O Cheat Sheet Poster" Poster by immortalloom | Redbubble](https://www.redbubble.com/i/poster/Official-Big-O-Cheat-Sheet-Poster-by-immortalloom/22929408.G7H47): 
+[redbubble.com](https://www.redbubble.com/i/poster/Official-Big-O-Cheat-Sheet-Poster-by-immortalloom/22929408.G7H47): Poster con grafico delle complessità.
 
-[Errore caricamento pagina](https://www.bigocheatsheet.com/):
+[bigocheatsheet.com](https://www.bigocheatsheet.com/): Grafico delle complessità.
 
-[iconscout.com/](about:blank):
+[iconscout.com](https://iconscout.com/): Materiale design, tutto gratuito.
 
-[musicforprogramming.net/](about:blank): 
+[musicforprogramming.net](https://musicforprogramming.net/): Questo sito, contiene musiche per programmare. È veramente un bel sito.
 
-[http.cat/](about:blank): 
+[http.cat](https://http.cat/):  Assegna ad ogni status code di una pagina web un gattino.
 
-[hiddentools.dev/](about:blank): 
+[hiddentools.dev](https://hiddentools.dev/): Vasta collezione di tool per il penetration testing.
 
-[Errore caricamento pagina](https://blockchaindemo.io/): 
+[blockchaindemo.io](https://blockchaindemo.io/): Una buona guida che aiuta a capire le dinamiche di una blockchain con una demo.
 
-[Errore caricamento pagina](https://ide.onelang.io/): 
+[ide.onelang.io](https://ide.onelang.io/): Trasforma il codice da un linguaggio ad un altro, in maniera rapida e piuttosto buona.
 
-[Twitter](https://twitter.com/Prathkum/status/1376149829294899201): 
+[Twitter](https://twitter.com/Prathkum/status/1376149829294899201): Twitt dove sono elencate molte risorse utili per il web design.
 
-[Errore caricamento pagina](https://niftygateway.com/): 
+[NFT-shop](https://niftygateway.com/): Niente altro che il più famoso shop di NFT.
 
-[gnu.org/software/make/manual/make.html](http://www.gnu.org/software/make/manual/make.html): 
+[CMake-manual](http://www.gnu.org/software/make/manual/make.html): Manuale di CMake ufficiale.
 
-[Errore caricamento pagina](https://www.vpnhub.com/): 
+[vpnhub.com](https://www.vpnhub.com/): Servizio vpn che dovrebbe fornire una vpn gratuita solo dagli USA.
 
-[VeraCrypt - Wikipedia](https://it.wikipedia.org/wiki/VeraCrypt): 
+[sagejenson.com](https://sagejenson.com/): Collezione di immagini biologiche.
 
-[gothinkster/realworld: "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅](https://github.com/gothinkster/realworld): 
+[giraudi.it](https://www.giraudi.it/): Forse uno dei migliori siti che vende cioccolato.
 
-[Errore caricamento pagina](https://sagejenson.com/): 
+[ritualmusic.com](https://www.ritualmusic.com/browse/recommended): Musica per video con licenza.
 
-[darktrace.com/it/](about:blank): 
+[Studio One](https://www.presonus.com/products/Studio-One): Tool per la gestione del audio.
 
-[Errore caricamento pagina](https://www.giraudi.it/): 
+[inkscape.org](https://inkscape.org/): Tool per immagini vettoriali e disegno.
 
-[Errore caricamento pagina](https://www.ritualmusic.com/browse/recommended): 
+[darktable.org](https://www.darktable.org/): Tool per gestione immagini, tipo adobe lightroom.
 
-[clipstudio.net/en/](about:blank): 
+[designer.io](https://www.designer.io/en/): Grafica vettoriale online.
 
-[Studio One | PreSonus](https://www.presonus.com/products/Studio-One): 
+[affinity.serif.com](https://affinity.serif.com/en-gb/): Tool per la grafica.
 
-[Errore caricamento pagina](https://inkscape.org/): 
+[Affinity Designer](https://affinity.serif.com/en-gb/designer/): Tool per la grafica.
 
-[darktable](https://www.darktable.org/): 
+[Flathub](https://flathub.org/home): Una sorta di store per applicazioni linux.
 
-[Errore caricamento pagina](https://www.designer.io/en/): 
+[Sequeler](https://github.com/Alecaddd/sequeler): Un client per database.
 
-[affinity.serif.com/en-gb/](about:blank): 
+[Nova.app](https://nova.app/): Editor per codice macOS.
 
-[Affinity Designer – Professional Graphic Design Software](https://affinity.serif.com/en-gb/designer/): 
+[elementary.io](https://elementary.io/): Sistema operativo, veramente ben fatto.
 
-[Flathub—An app store and build service for Linux](https://flathub.org/home): 
+[Tutorial - Plugin](https://github.com/Alecaddd/WordPressPlugin101): Tutorial su come creare un plugin wordpress.
 
-[Alecaddd/sequeler: SQL Client built in Vala](https://github.com/Alecaddd/sequeler): 
+[apilayer.com](https://apilayer.com/): Ci sono molte api che si possono usare per applicazioni web based.
 
-[Errore caricamento pagina](https://nova.app/): 
+[HBX](https://hbx.com/unisex?home=1): E-commerce veramente con roba bella.
 
-[elementary.io/](about:blank): 
+[gridstudio.cc](https://gridstudio.cc/): Questo sito vende quadri di telefoni "esplosi".
 
-[Alecaddd/WordPressPlugin101: Official repository of the series of tutorial on How to Create a WordPress Plugin from scratch: https://www.youtube.com/playlist?list=PLriKzYyLb28kR_CPMz8uierDWC2y3znI2](https://github.com/Alecaddd/WordPressPlugin101): 
+[limitzero.pro](https://www.limitzero.pro/): Questo E-commerce vende e realizza quadri con mappe raffigurate. 
 
-[Errore caricamento pagina](https://wordpress.org/plugins/horizontal-scrolling-announcements/#installation): 
+[replit.com](https://replit.com/): Editor di codice online, con grandi capacità collaborative. 
 
-[apilayer.com/](about:blank): 
+[gather.town](https://gather.town/): Una città virtuale dove è possibile parlare con amici e giocare.
 
-[HBX - Globally Curated Fashion and Lifestyle by Hypebeast](https://hbx.com/unisex?home=1): 
+[ident.me](http://ident.me/): Fornisce l'indirizzo ip pubblico e basta. Utile per chiamate curl.
 
-[spreaker.com/show/perfettp](about:blank): 
+[paint.wtf](https://paint.wtf/): Permette di sfidare amici con il disegno.
 
-[ebay.it/itm/Acer-Aspire-One-751h-52Bb-Netbook-11-6-Windows-10-pro-Intel-ATOM/154390851660?hash=item23f269704c:g:g1EAAOSwSF9gXh99](about:blank): 
-[macos - Uninstall all programs installed by Homebrew - Ask Different](https://apple.stackexchange.com/questions/198623/uninstall-all-programs-installed-by-homebrew): 
+[backstage.io](https://backstage.io/): Permette di creare piattaforme con markdown. Utile per doc page.
 
-[gridstudio.cc/](about:blank): 
+[substack.com](https://substack.com/home): Community con scrittori dove ci si può scrivere.
 
-[gridstudio.cc/?sscid=31k5_q1iku&](about:blank): 
+[First-python-project](https://towardsdatascience.com/build-your-first-open-source-python-project-53471c9942a7): Come dovrebbe essere strutturato un progetto in python.
 
-[limitzero.pro/](about:blank): 
+[Best dataset](https://towardsdatascience.com/the-top-10-best-places-to-find-datasets-8d3b4e31c442): Qui si possono trovare dataset con molti dati.
 
-[aws.amazon.com/it/certification/certification-prep/](about:blank): 
+[ryujinx.org/](https://ryujinx.org/): Emulatore per nintendo switch.
 
-[replit.com/](about:blank): 
+[codinggame.com](https://www.codingame.com/start): Qui è possibile creare e partecipare a coding game.
 
-[gather.town/](about:blank): 
+[Gcc_make](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html): Come usare gcc e make.
 
-[ident.me/](http://ident.me/): 
+[MagicMirror](https://github.com/MichMich/MagicMirror): Repository per creare il magic mirror con raspberry.
 
-[paint.wtf - the AI powered drawing competition](https://paint.wtf/): 
+[Falco](https://falco.org/): Un progetto cloud native per la sicurezza cloud.
 
-[Backstage Service Catalog and Developer Platform · An open platform for building developer portals](https://backstage.io/): 
+[Legatoria L'Abbecedario](http://www.abbecedario.com/quaderni): Una cartolibreria che vende belle agende rilegate a mano.
 
-[substack.com/home](about:blank): 
+[stationerypal.com](https://stationerypal.com): Cartolibreria che vende set di oggetti per lo studio.
 
-[Errore caricamento pagina](https://towardsdatascience.com/build-your-first-open-source-python-project-53471c9942a7): 
+[cpu-world.com](https://www.cpu-world.com/): Sito per comparare e leggere le performance delle cpu.
 
-[Errore caricamento pagina](https://towardsdatascience.com/the-top-10-best-places-to-find-datasets-8d3b4e31c442): 
+[NitroPack](https://nitropack.io/pricing): Wwordpress plugin per aumentare prestazioni seo su google.
 
-[ryujinx.org/](about:blank): 
+[Clear cmos](https://morethantech.it/article?title=come-effettuare-un-clear-cmos): Come fare un reset del bios.
 
-[Errore caricamento pagina](https://www.codingame.com/start): 
+[ocbase.com](https://www.ocbase.com/): Tool per verifica schermata blu su windows 10.
 
-[Errore caricamento pagina](https://www3.ntu.edu.sg/home/ehchua/programming/cpp/gcc_make.html): 
+[Approximation Day](https://inchiostrovirtuale.it/22-luglio-approximation-day/): 
 
-[raffaelemarino56/WordCount: Language C, with open-MPI for univeristy project](https://github.com/raffaelemarino56/WordCount): 
+[Extension VScode](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost): Estensione VSCode che permette di vedere la grandezza degli import fatti con python.
 
-[Luigi-Crisci/MPI-Word-Count: An MPI implementation of Word Count problem](https://github.com/Luigi-Crisci/MPI-Word-Count): 
+[tabnine.com](https://www.tabnine.com/): Anche estensione VSCode per autocompletamento codice.
 
-[shevchenko-sergio/mpi-word-count](https://github.com/shevchenko-sergio/mpi-word-count): 
+[OpenCTI](https://www.opencti.io/en/): Utile per riportare minacce alla sicurezza in grandi asset.
 
-[Armando1514/Distributed-WordCount-With-MPI-and-AWS-EC2: Basic tutorial with code for creating ec2 instances in AWS and let them communicate through MPI, plus the implementation of the word count problem in a distributed way with a related benchmark.](https://github.com/Armando1514/Distributed-WordCount-With-MPI-and-AWS-EC2): 
-
-[MichMich/MagicMirror: MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.](https://github.com/MichMich/MagicMirror): 
-[Falco](https://falco.org/): 
-
-[Legatoria L'Abbecedario](http://www.abbecedario.com/quaderni): 
-
-[sostanza.info/#contact](about:blank): 
-
-[stationerypal.com/?ref=fraffrog&currency=EUR](about:blank): 
-
-[Errore caricamento pagina](https://www.cpu-world.com/): 
-
-[tickets.register.it/list](about:blank): 
-
-[Errore caricamento pagina](https://stripe.com/it): 
-
-[NitroPack - Improve your Google PageSpeed score](https://nitropack.io/pricing): 
-
-[COME EFFETTUARE UN CLEAR CMOS](https://morethantech.it/article?title=come-effettuare-un-clear-cmos): 
-
-[ocbase.com/](https://www.ocbase.com/): 
-
-[Il 22 luglio si celebra l'Approximation Day – Scienze e Tecnologia](https://inchiostrovirtuale.it/22-luglio-approximation-day/): 
-
-[marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost): 
-
-[Errore caricamento pagina](https://www.tabnine.com/): 
-
-[OpenCTI - Open platform for cyber threat intelligence](https://www.opencti.io/en/): 
-
-[ethermine.org/](about:blank): 
+[ethermine.org/](https://ethermine.org/): La più grande mining pool per ETH.
 
 [docs.microsoft.com/en-us/windows/terminal/custom-terminal-gallery/custom-schemes](about:blank): 
 
