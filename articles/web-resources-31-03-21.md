@@ -1,5 +1,5 @@
 ﻿# Collection of web resources
-*last update: 07/04/2021*
+*last update: 08/04/2021*
 
 *Now I have to open each site and write down what it is!!*
 
@@ -121,238 +121,201 @@ __For future updates, I would like to break them up into fields.__
 
 [ethermine.org/](https://ethermine.org/): La più grande mining pool per ETH.
 
-[docs.microsoft.com/en-us/windows/terminal/custom-terminal-gallery/custom-schemes](about:blank): 
+[Custom terminal Windows](https://docs.microsoft.com/en-us/windows/terminal/custom-terminal-gallery/custom-schemes): Come personalizzare il terminale su windows.
 
-[video.librestock.com/](about:blank): 
+[librestock.com](https://video.librestock.com/): Contenitore di video e immagini stock per grafica.
 
-[librestock.com/#](about:blank): 
+[slack.com](https://slack.com): Niente altro che slack. 
 
-[slack.com/intl/it-it/](about:blank): 
+[displate.com](https://displate.com/): Un e-commerce che vende molti poster assai belli.
 
-[displate.com/](about:blank): 
+[doodle.com](https://doodle.com/it/): Permette organizzazione e scheduling personale.  
 
-[doodle.com/it/](about:blank): 
+[Trilogia dello Sprawl](https://it.wikipedia.org/wiki/Trilogia_dello_Sprawl): Trilogia di libri che ha dato il via al cyberpunk.
 
-[Trilogia dello Sprawl - Wikipedia](https://it.wikipedia.org/wiki/Trilogia_dello_Sprawl): 
+[Anchor](https://anchor.fm/): Piattaforma per podcast, anche gratuita.
 
-[Anchor - The easiest way to make a podcast](https://anchor.fm/): 
+[cyberciti.biz](https://www.cyberciti.biz/open-source/command-line-hacks/adding-spice-to-your-sudo-session-with-a-lecture-file-on-linux-or-unix/): Aggiungere testo al login con sudo su linux.
 
-[cyberciti.biz/open-source/command-line-hacks/adding-spice-to-your-sudo-session-with-a-lecture-file-on-linux-or-unix/?__cf_chl_captcha_tk__=e1915f633ac8f1bec05d612250dcc12cd6b5544c-1615472663-0-AV08eG4VAaOAWJunIoGdr0MspkRpL7cLFYajcb3AZwPG9JsMkw2NIBw-ArsPhYIn9MPvidRcsX36TOboLbszIiMDx0xc49X9Bq5oDAPjD_tAxDXaUq5Nv-lZg8TGXAqxnJ7gRkF_bj5uC2_eyJ-vNSzN2H_uaB3xeFi_ZYHl2Pup1ZEVQELzMLJUN1cbKd9lEm5JgXq28EmYAkxdam1M_RMDl0lCrPcj0TveV1R57xV8CUOOG_zXT8yMfv58WbmwXD4dnS1SaU3I6rIzgEHt_uLMP9tEk5oIfeXCXTSsVIrrWwO3EHWKThcE_-W0vOOuvpXa9SUA6sEDjStxutPJ_ZwwvsBCqCc8I1aRuA9dx910lMsMMYFY6WCp5euGERgPnDTskaEDzTM5rlKV1QwQKyk_6m8IjAzrVUoxy_MEKbCIWlOQzi2FVJGc5xkbTD3UgbOTeHFxPSsQwKpmjmgXpUvk1Ktdjtd8_0OXz4LteY3P_WD44bUbzACS_Njezt2Bpx7PCm_GD3GGfb_ZLw_zm1cJ8rf4F3n001z1kHse4PJ8D2ORxPoeGXE4EkK9bbOOzmHnziZ7VwYGZM9Cw0VcYQtesbbtC217czcU9EG6rI7FdguRKG-5Z1iXvqSp2RrsdNDJ17Cs1p6GU03MbZ4eb9VwysWYvRvhGmfDlJ6FsSFkYueyqL2xF-xV8jQJlrVkrpTJ7hGslzylGE9QTuzyWWQ_7SeU62jHCEHwZT_gjZNE](about:blank): 
-[reviewmeta.com/](about:blank): 
+[reviewmeta.com](https://reviewmeta.com/): Controlla se le recensioni su amazon sono veritiere.
 
-[ZeroTier – Global Area Networking](https://www.zerotier.com/): 
+[ZeroTier](https://www.zerotier.com/): Una VPN che permette di connetere team aziendali fra di loro.
 
-[9watts.com/](about:blank): 
+[9watts.com](https://9watts.com): Un e-commerce che vende belle scritte a led.
 
-[Tweepy](https://www.tweepy.org/): 
+[Tweepy](https://www.tweepy.org/): Libreria per usare API di twitter su python.
 
-[Home](https://zora.co/): 
+[Zora](https://zora.co/): Uno e-commerce di NFT.
 
-[Errore caricamento pagina](https://gabriele.tips/tools/): 
+[Tool vari](https://gabriele.tips/tools/): Una serie di tool utili per la verifica di link.
 
-[you.regettingold.com/](about:blank): 
+[you.regettingold.com](http://you.regettingold.com/): Ti dice da quanto tempo sei vivo e altre info stupide.
 
-[bitwarden.com/](about:blank): 
+[bitwarden.com](https://bitwarden.com): Un posto dove salvare password.
 
 [Fig - Autocomplete for the Terminal | Fig](https://withfig.com/): 
 
-[krita.org/en/](about:blank): 
+[krita.org](https://krita.org/en/): Un tool open source per il disegno. 
 
-[no hello](https://nohello.net/): 
+[no hello](https://nohello.net/): Un sito stupido per dire basta a chi saluta solo.
 
-[[GUIDA] Linux, Bash Tip: come vedere il timestamp di un comando](https://www.lffl.org/2021/01/guida-bash-linux-tip-timestamp-comandi.html): 
+[Timestamp di un comando](https://www.lffl.org/2021/01/guida-bash-linux-tip-timestamp-comandi.html): Linux tips.
 
-[Impossibile contattare il server](http://it.1lib.eu/): 
+[Free book](http://it.1lib.eu/): Dovrebbe essere un sito da dove scaricare e-book gratis, ma non funziona!
 
-[Collezione Ebook gratis - Bookrepublic](https://www.bookrepublic.it/ebooks/collection/ebook-gratis/): 
+[Bookrepublic](https://www.bookrepublic.it/ebooks/collection/ebook-gratis/): Ci sono molti e-book free in italiano.
 
-[LeCoupa/awesome-cheatsheets: 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.](https://github.com/LeCoupa/awesome-cheatsheets): 
+[Awesome cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets): Cheatsheet per molti linguaggi di programmazione.
 
-[mockflow.com/](about:blank): 
+[mockflow.com](https://mockflow.com): Modo facile e veloce per disegnare UI.
 
-[Errore caricamento pagina](https://muz.li/): 
+[muz.li](https://muz.li/): Sito per ispirazione.
 
-[Errore caricamento pagina](https://www.overleaf.com/learn/latex/List_of_Greek_letters_and_math_symbols): 
+[Hacklog](https://www.hacklog.net/it): Sito in italiano con risorse per security in italiano.
 
-[Home | Hacklog - Corsi Gratuiti di Sicurezza Informatica e Hacking Etico](https://www.hacklog.net/it): 
+[Futuribile Napoli](https://www.futuribilenapoli.com): e-commerce che vende molte cose belle, cd, vicili, poster.
 
-[Hacklog 1 on Vimeo](https://vimeo.com/channels/1686369): 
+[Bash one-liners](https://github.com/stephenturner/oneliners): Linux tips.
 
-[Errore caricamento pagina](https://www.slideshare.net/gummyindustries/presentations): 
+[Static site generator](https://www.getzola.org/): Static site generator.
 
-[Poster | Futuribile Studio](https://www.futuribilenapoli.com/category/poster): 
+[Nushell](https://www.nushell.sh/): Un tipo diverso di bash shell.
 
-[stephenturner/oneliners: Useful bash one-liners for bioinformatics.](https://github.com/stephenturner/oneliners): 
+[dolthub.com](https://www.dolthub.com/): Permette di convidiere e reperire grandi moli di dati. 
 
-[getzola/zola: A fast static site generator in a single binary with everything built-in. https://www.getzola.org](https://github.com/getzola/zola): 
+[Kenobit](https://kenobit.bandcamp.com/album/giorgio-by-kenobit): Un pezzo veramente forte.
 
-[Nushell](https://www.nushell.sh/): 
+[Hexo](https://hexo.io/): Static site generator.
 
-[nushell/nushell: A new type of shell](https://github.com/nushell/nushell): 
+[cryptocompare.com](https://www.cryptocompare.com/): Uno dei migliori siti per comparare costi di criptomonete.
 
-[Errore caricamento pagina](https://www.dolthub.com/): 
+[aws.psiexams.com](https://aws.psiexams.com): Sito per esami online.
 
-[Giorgio by Kenobit | Kenobit](https://kenobit.bandcamp.com/album/giorgio-by-kenobit): 
+[AutoHotkey](https://www.autohotkey.com/): Permette di automatizzare azioni con hotkey su windows.
 
-[Hexo](https://hexo.io/): 
+[automate.io](https://automate.io/): Permette di automatizzare azioni fra componenti tipo mail, server, telegram.
 
-[cryptocompare.com/mining/calculator/eth?HashingPower=25&HashingUnit=MH%2Fs&PowerConsumption=0&CostPerkWh=0&MiningPoolFee=1](about:blank): 
+[Zapier](https://zapier.com/): Permette di automatizzare azioni fra componenti tipo mail, server, telegram.
 
-[aws.psiexams.com/#/dashboard/compact-dashboard](https://aws.psiexams.com/#/dashboard/compact-dashboard): 
+[Checkvist](https://checkvist.com/): Permette di creare checklist.
 
-[AutoHotkey](https://www.autohotkey.com/): 
+[answerthepublic.com](https://answerthepublic.com/): Un google trends ma più potente.
 
-[Errore caricamento pagina](https://automate.io/): 
+[keyword.io](https://www.keyword.io/): Un google trends ma più potente.
 
-[Zapier | The easiest way to automate your work](https://zapier.com/): 
+[app.neilpatel.com](https://app.neilpatel.com/it/dashboard): Un google trends ma più potente.
 
-[Keyboard-driven task manager and list making tool | Checkvist](https://checkvist.com/): 
+[WindowSwap](https://www.window-swap.com/): Permette di vedere una finestra sul mondo, per 10 minuti.
 
-[Errore caricamento pagina](https://answerthepublic.com/): 
+[Hotjar](https://www.hotjar.com/): Fornisce strumenti per statistiche e analitiche per sito web.
 
-[Free keyword research tool - Find longtail and related keywords](https://www.keyword.io/): 
+[Microsoft Clarity](https://clarity.microsoft.com/): Fornisce strumenti per statistiche e analitiche per sito web e fruibilità.
 
-[app.neilpatel.com/it/dashboard](https://app.neilpatel.com/it/dashboard): 
+[biosites](https://unfold.com/biosites): Permette di creare semplici siti web.
 
-[WindowSwap](https://www.window-swap.com/): 
+[fusuma](https://hiroppy.github.io/fusuma/): Tool per creare slide in modo semplice, con markdown.
 
-[Hotjar: Website Heatmaps & Behavior Analytics Tools](https://www.hotjar.com/): 
+[strawpoll.com](https://strawpoll.com/): Permette di creare questionari poll in modo rapido.
 
-[Microsoft Clarity - Free Heatmaps & Session Recordings](https://clarity.microsoft.com/): 
+[Free-for-dev](https://free-for.dev/#/?id=code-quality): Molte risorse gratuite per developers.
 
-[Errore caricamento pagina](https://unfold.com/biosites): 
+[MangaYo!](https://mangayo.it/): e-commerce dove acquistare manga italiani e non, senza problemi con dogana.
 
-[Errore caricamento pagina](https://hiroppy.github.io/fusuma/): 
+[Roam Research](https://roamresearch.com/): Uno strumento per prendere appunti in rete.
 
-[Errore caricamento pagina](https://strawpoll.com/): 
+[getharvest.com](https://getharvest.com): Permette di schedulare il proprio tempo con allarmi e avvisi.
 
-[Errore caricamento pagina](https://free-for.dev/#/?id=code-quality): 
+[GeoGuessr](https://www.geoguessr.com/): Gioco dove si deve indovinare in che parte del mondo siamo, da googlemaps.
 
-[MangaYo! - Manga, Shonen Jump e prodotti da collezione Giapponesi](https://mangayo.it/): 
+[Educative Unlimited](https://www.educative.io/unlimited): Offre risorse per potenziare le skill tech personali.
 
-[Errore caricamento pagina](https://slides.com/?ref=github): 
+[kaggle.com](https://kaggle.com): Risorse per data scientis.
 
-[Roam Research – A note taking tool for networked thought.](https://roamresearch.com/): 
+[Omni Calculator](https://www.omnicalculator.com/): Tutte le possibili tipi di calcolatrici disponibili.
 
-[getharvest.com/](about:blank): 
+[telegra.ph](https://telegra.ph/): Permette di creare pagine web hostate da questo sito, utili per telegram.
 
-[GeoGuessr - Let's explore the world!](https://www.geoguessr.com/): 
+[airtable.com](https://airtable.com/): Permette di creare tabelle online.
 
-[Educative Unlimited: Stay ahead of the curve](https://www.educative.io/unlimited): 
+[Job work](https://airtable.com/shr3eGPDm3wGjT2gA/tbluCbToxQ2knSLhh/viwmFR062GOjG4cjs): Aziende che cercano lavoro e come lo cercano.
 
-[kaggle.com/](about:blank): 
+[Markdown Syntax](https://daringfireball.net/projects/markdown/syntax): Sintassi markdown.
 
-[Omni Calculator](https://www.omnicalculator.com/): 
+[Security Blogger](http://www.thesecurityblogger.com/): Blog con molte news sulla sicurezza.
 
-[Errore caricamento pagina](https://telegra.ph/): 
+[Quizizz](https://quizizz.com/): Piattaforma che permette di creare quizz online.
 
-[Errore caricamento pagina](https://airtable.com/): 
+[Keyboard build](https://en.varmilo.com/keyboardproscenium/): e-commerce che vende tastiere e permette la creazione custom.
 
-[Errore caricamento pagina](https://airtable.com/shr3eGPDm3wGjT2gA/tbluCbToxQ2knSLhh/viwmFR062GOjG4cjs): 
+[Chart.js](https://www.chartjs.org/): Permette di creare grafici html5.
 
-[Daring Fireball: Markdown Syntax Documentation](https://daringfireball.net/projects/markdown/syntax): 
+[Crontab.guru](https://crontab.guru/): Permette di settare il tempo nel crontab senza alcuno sforzo.
 
-[The Security Blogger – Security news, notes and ramblings.](http://www.thesecurityblogger.com/): 
+[Voci di Barbero](https://spranga.xyz/): Citazioni di Barbero. Le migliori.
 
-[Quizizz — The world’s most engaging learning platform](https://quizizz.com/): 
+[Free-certification](https://github.com/cloudcommunity/Free-Certifications): Lista quasi sempre aggiornata, delle certificazioni gratis disponibili.
 
-[Errore caricamento pagina](https://www.defcon.org/html/defcon-26/dc-26-index.html): 
+[tastyigniter.com](https://tastyigniter.com/): Permette di implementare un sistema di ordinazioni per ristoranti.
 
-[Errore caricamento pagina](https://en.varmilo.com/keyboardproscenium/): 
+[Generare loghi](https://www.logoly.pro/#/): Permette di generare loghi online, copiati da altri siti.
 
-[kaggle.com/datasets](about:blank): 
+[penpot.app](https://penpot.app/): Disegnare mockup per siti, app, gratis e completamente web based.
 
-[Chart.js | Open source HTML5 Charts for your website](https://www.chartjs.org/): 
+[Raspberry-monitor](https://www.muo.com/tag/turn-raspberry-pi-network-monitoring-tool/): Trasformare rpb in un netwook monitor.
 
-[Crontab.guru - The cron schedule expression editor](https://crontab.guru/): 
+[Python color in terminal](https://stackoverflow.com/questions/287871/how-to-print-colored-text-to-the-terminal)
 
-[Errore caricamento pagina](https://spranga.xyz/): 
+[Style terminal website](https://itnext.io/how-to-create-interactive-terminal-like-website-888bb0972288)
 
-[cloudcommunity/Free-Certifications: Curated list of free courses & certifications](https://github.com/cloudcommunity/Free-Certifications): 
+[Previsioni meteo](http://wttr.in/): Permette di ottenere le previsioni meteo con curl.
 
-[Errore caricamento pagina](https://tastyigniter.com/): 
+[pomodoro challeng study](https://pomofocus.io/): Permette di cronometrare la pomodoro study challeng.
 
-[Errore caricamento pagina](https://www.logoly.pro/#/): 
+[Docsity](https://www.docsity.com/it/): Fonte di appunti e libri universitari. 
 
-[Errore caricamento pagina](https://penpot.app/): 
+[Worldometer](https://www.worldometers.info/world-population/): Alcune statistiche del mondo intero.
 
-[Errore caricamento pagina](https://www.muo.com/tag/turn-raspberry-pi-network-monitoring-tool/): 
+[hardkernel.com](https://www.hardkernel.com/): e-commerce di console create con raspberry.
 
-[daniele321b/daniele_cioffi_adc_2020](https://github.com/daniele321b/daniele_cioffi_adc_2020): 
+[linktr.ee](https://linktr.ee/): Permette di accorciare link.
 
-[Errore caricamento pagina](https://stackoverflow.com/questions/287871/how-to-print-colored-text-to-the-terminal): 
+[berty.tech](https://berty.tech/): Applicazione per chat private.
 
-[Errore caricamento pagina](https://itnext.io/how-to-create-interactive-terminal-like-website-888bb0972288): 
+[nextcloud.com](https://nextcloud.com/): Permette di creare il proprio cloud personale.
 
-[Previsioni meteo: Naples, Italy](http://wttr.in/): 
+[goodreads.com](https://www.goodreads.com/): Permette di tenere la lista dei libri letti.
 
-[Errore caricamento pagina](https://pomofocus.io/): 
+[Milkshake App](https://milkshake.app): Permette di creare siti web dal cellulare. 
 
-[Iperius Remote - Software desktop remoto e controllo remoto](https://www.iperiusremote.it/): 
+[wiki.js.org](https://wiki.js.org/): Permette di creare vere e proprio wikipedie.
 
-[Appunti, dispense e riassunti per studenti universitari e liceali - Docsity](https://www.docsity.com/it/): 
+[volumio.org](https://volumio.org/): Permette di crearsi il proprio spotify a casa. 
 
-[World Population Clock: 7.9 Billion People (2021) - Worldometer](https://www.worldometers.info/world-population/): 
+[eternalterminal.dev](https://eternalterminal.dev/): Il terminale che si riconnette se cade la connessione.
 
-[Gradle Build Tool](https://gradle.org/): 
+[linrunner.de/tlp](https://linrunner.de/tlp/): Ottimizzare la batteria dei portatili su linux.
 
-[Errore caricamento pagina](https://www.hardkernel.com/): 
+[BookAuthority](https://bookauthority.org/): Qui vengono consigliati libri.
 
-[Errore caricamento pagina](https://linktr.ee/): 
+[BugMeNot: share logins](http://bugmenot.com/): Permette di usare credenziali di altre persone per accedere a siti web.
 
-[Errore caricamento pagina](https://berty.tech/): 
+[ludwig.guru](https://ludwig.guru/): Scrivere bene in inglese.
 
-[Errore caricamento pagina](https://nextcloud.com/): 
+[allfreestock.com](https://allthefreestock.com/): Ci sono molte immagini stock gratuite.
 
-[Errore caricamento pagina](https://www.goodreads.com/): 
+[Static site generator](https://about.me/): Permette di creare un sito vetrina semplice e rapido.
 
-[Errore caricamento pagina](https://vercel.com/home): 
+[allmylinks.com](https://allmylinks.com/): Url shorter.
 
-[reddit: the front page of the internet](https://www.reddit.com/): 
+[getresponse.it](https://www.getresponse.it/?lang=it): Automatizzare mail di marketing
 
-[Milkshake App | Free Website Builder](https://milkshake.app/?utm_source=milkshake-websites&utm_medium=web&utm_content=mwm&utm_campaign=mcs): 
+[supermagiclink.com](https://supermagiclink.com/home): Permette di sincronizzare sorgenti video, utili su commentary twitch.
 
-[Errore caricamento pagina](https://wiki.js.org/): 
+[whiteboardfox.com](https://r8.whiteboardfox.com/): Una semplice lavagna online.
 
-[Errore caricamento pagina](https://volumio.org/): 
+[peertube.uno](https://peertube.uno/): Un youtube ma opensource.
 
-[Errore caricamento pagina](https://null-byte.wonderhowto.com/how-to/enable-monitor-mode-packet-injection-raspberry-pi-0189378/): 
-
-[Errore caricamento pagina](https://eternalterminal.dev/): 
-
-[datastacktv/data-engineer-roadmap: Roadmap to becoming a data engineer in 2021](https://github.com/datastacktv/data-engineer-roadmap): 
-
-[Errore caricamento pagina](https://linrunner.de/tlp/): 
-
-[Errore caricamento pagina](https://bookauthority.org/): 
-
-[BugMeNot: share logins](http://bugmenot.com/): 
-
-[Errore caricamento pagina](https://ludwig.guru/): 
-
-[Errore caricamento pagina](https://allthefreestock.com/): 
-
-[Errore caricamento pagina](https://scratch.mit.edu/): 
-
-[Errore caricamento pagina](https://www.dreamhost.com/blog/how-to-start-a-website-without-using-wordpress/): 
-
-[Errore caricamento pagina](https://about.me/): 
-
-[tools | suckless.org software that sucks less](http://tools.suckless.org/dmenu/): 
-
-[WordGrinder](http://cowlark.com/wordgrinder/index.html): 
-
-[Errore caricamento pagina](https://allmylinks.com/): 
-
-[Errore caricamento pagina](https://www.getresponse.it/?lang=it): 
-
-[Errore caricamento pagina](https://supermagiclink.com/home): 
-
-[Errore caricamento pagina](https://r8.whiteboardfox.com/): 
-
-[Errore caricamento pagina](https://peertube.uno/): 
-
-[Errore caricamento pagina](https://riptutorial.com/it/markdown): 
+[Markdown syntax](https://riptutorial.com/it/markdown): Sintassi markdown riassunta.
 
 [Errore caricamento pagina](https://store.tomsachs.org/): 
 
