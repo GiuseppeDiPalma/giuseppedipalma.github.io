@@ -317,195 +317,165 @@ __For future updates, I would like to break them up into fields.__
 
 [Markdown syntax](https://riptutorial.com/it/markdown): Sintassi markdown riassunta.
 
-[Errore caricamento pagina](https://store.tomsachs.org/): 
+[store.tomsachs.org](https://store.tomsachs.org/): E-commerce di abiti assai carini.
 
-[Errore caricamento pagina](https://www.ultimoavamposto.com/): 
+[ultimoavamposto.com](https://www.ultimoavamposto.com/): E-commerce di oggetti da collezionista fantasy.
 
-[Errore caricamento pagina](https://dvwa.co.uk/index.php): 
+[dvwa.co.uk](https://dvwa.co.uk/): Programma per pentesting vulnerabilità.
 
-[GitHub & BitBucket HTML Preview](http://htmlpreview.github.io/): 
+[GitHub & BitBucket HTML Preview](http://htmlpreview.github.io/): Preview di pagine html di github o bitbucket(Utile per markdown anche).
 
-[Errore caricamento pagina](https://revealjs.com/): 
+[revealjs.com](https://revealjs.com/): Creare presentazioni online con markdown.
 
-[Errore caricamento pagina](https://pastebin.com/s5E3ZyuN): 
+[leavemealone.app](https://leavemealone.app/): Rimuove le sottoscrizioni dalle mail automaticamente, a pagamento però.
 
-[Errore caricamento pagina](https://leavemealone.app/): 
+[cleanfox.io](https://www.cleanfox.io): Rimuove le sottoscrizioni dalle mail automaticamente.
 
-[Errore caricamento pagina](https://www.cleanfox.io/login/email?utm_source=blog&utm_medium=sidebar&utm_campaign=foxy_space&utm_term=&utm_content=): 
+[Chek spam-osita mail](https://www.ipqualityscore.com/email-deliverability/email-spam-test-checker/): Verifica che la mail non contenga spam.
 
-[Errore caricamento pagina](https://www.ipqualityscore.com/email-deliverability/email-spam-test-checker/): 
+[mail-tester.com](https://www.mail-tester.com/): Controlla quanto sono spammose le tue email.
 
-[Errore caricamento pagina](https://www.mail-tester.com/): 
+[Diagramma con markdown](https://support.typora.io/Draw-Diagrams-With-Markdown/): Disegnare diagrami con markdown.
 
-[Errore caricamento pagina](https://support.typora.io/Draw-Diagrams-With-Markdown/): 
+[BadGenerator](https://badgen.net/): Generatore di Badge per github.
 
-[Errore caricamento pagina](https://badgen.net/): 
+[Url shooter](https://app.bitly.com/Bl159x2ylr1/bitlinks/3otlo0R): Riduttore di link. Google non è più disponibile.
 
-[Errore caricamento pagina](https://app.bitly.com/Bl159x2ylr1/bitlinks/3otlo0R): 
+[tech.io](https://tech.io/): Utile per scrivere documentazione e condividerla. Esegue anche codice.
 
-[Errore caricamento pagina](https://tech.io/): 
+[excalidraw](https://excalidraw.com/): Permette di disegnare grafici online e poi esportarli, SVG o PNG.
 
-[Errore caricamento pagina](https://excalidraw.com/): 
+[Markdown cheat-sheet](https://www.markdownguide.org/cheat-sheet/): Markdown comandi e palette.
 
-[Impossibile contattare il server](https://gitpitch.com/): 
+[Avatar generator](https://multiavatar.com/): Crea degli avatar da poter salvare e usare dove si vuole.
 
-[Errore caricamento pagina](https://www.markdownguide.org/cheat-sheet/): 
+[kite.com](https://www.kite.com/): Aiuta a programmare. Utile, ma a pagamento, non testato!
 
-[Errore caricamento pagina](https://mee6.xyz/dashboard/788379498688938024): 
+[motion-project](https://motion-project.github.io/): Permette di abilitare il motion capture sulle telecamere in casa.
 
-[Errore caricamento pagina](https://multiavatar.com/): 
+[seamly.net](https://seamly.net/): Tool per sviluppo disegni in 2D.
 
-[Errore caricamento pagina](https://www.kite.com/): 
+[Sarti Draw](https://valentinaproject.bitbucket.io/): Permette la creazione di modelli per sarti.
 
-[Errore caricamento pagina](https://motion-project.github.io/): 
+[webmin.com](https://www.webmin.com/): Gestione di server linux da interfaccia grafica.
 
-[Errore caricamento pagina](https://www.sculpteo.com/en/3d-learning-hub/3d-printing-software/best-cad-fashion-design-software/): 
+[Dati covid Italia](https://msit.powerbi.com/view?r=eyJrIjoiZTgyNTNkZTYtYjE0Mi00Yjc3LWEwMDQtNWM3ZTM0MDAyZjY0IiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9): permette di vedere i dati del covin in Italia. Aggiornati in tempo reale.
 
-[Errore caricamento pagina](https://seamly.net/): 
+[VPN](https://tailscale.com/): Una vpn con zero effor di configurazione.
 
-[Errore caricamento pagina](https://valentinaproject.bitbucket.io/): 
+[Summarize articles](https://tldrthis.com/): Permette di ottenere riassunti di un articolo, semplicemente incollando il link. 
 
-[Errore caricamento pagina](https://www.webmin.com/): 
+[jupyter.org](https://jupyter.org/): Un software per sviluppare con python. 
 
-[Errore caricamento pagina](https://msit.powerbi.com/view?r=eyJrIjoiZTgyNTNkZTYtYjE0Mi00Yjc3LWEwMDQtNWM3ZTM0MDAyZjY0IiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9): 
+[Anaconda](https://www.anaconda.com/products/individual): Tipo eclipse, per java. Anche per python.
 
-[Errore caricamento pagina](https://tailscale.com/): 
+[lichess.org](https://lichess.org/): Sito per giocare a scacchi e allenarsi.
 
-[Errore caricamento pagina](https://tldrthis.com/): 
+[Radicle.xyz](https://radicle.xyz/): Versioning del codice ma in modo decentralizzato.
 
-[Errore caricamento pagina](https://jupyter.org/try): 
+[Dashboards for Python](https://h2oai.github.io/wave/): Permette di creare e gestire una dashboard per python.
 
-[Errore caricamento pagina](https://www.anaconda.com/products/individual): 
+[Motore scacchi.](https://stockfishchess.org/): Motore di scacchi by google.
 
-[Errore caricamento pagina](https://lichess.org/): 
+[Background](https://www.youtube.com/c/dvdangor2011/videos): Video con backgroun in movimento a 60 FPS.
 
-[Errore caricamento pagina](https://radicle.xyz/): 
+[Resource monitor](https://www.cyberciti.biz/open-source/command-line-hacks/bpytop-awesome-linux-macos-and-freebsd-resource-monitor/?fbclid=IwAR2V5H5ZlrmrHA0CvZmRgV1RR7lI-Q6636moathfshYVsFSndl7sSjBTx7M): Monitor da cli per verificare i parametri della macchina linux.
 
-[h2oai/wave: Realtime Web Apps and Dashboards for Python](https://github.com/h2oai/wave): 
+[Freenode](https://freenode.net/): Comunità di linux decentralizzata.
 
-[Errore caricamento pagina](https://stockfishchess.org/): 
+[CSS-sass](https://sass-lang.com/): Libreria CSS super bella.
 
-[Errore caricamento pagina](https://www.youtube.com/c/dvdangor2011/videos): 
+[Mapbox](https://www.mapbox.com/): Permette di creare mappe per le nostre applicazioni.
 
-[Errore caricamento pagina](https://www.radiolaruota.it/wp-admin/): 
+[shardingsphere](https://shardingsphere.apache.org/): Ecosistema di applicazioni apache utile per la gestione di progetti di tipo distribuiti.
 
-[Errore caricamento pagina](https://cs.stackexchange.com/questions/82033/bit-blasting-algorithm): 
+[OpenLibrary](https://openlibrary.org/): Ci sono molti ebook gratuiti in inglese.
 
-[Errore caricamento pagina](https://0xrick.github.io/): 
+[Optimising Web Delivery](http://www.squid-cache.org/): È proxy cached per http, https ecc.
 
-[Errore caricamento pagina](https://www.cyberciti.biz/open-source/command-line-hacks/bpytop-awesome-linux-macos-and-freebsd-resource-monitor/?fbclid=IwAR2V5H5ZlrmrHA0CvZmRgV1RR7lI-Q6636moathfshYVsFSndl7sSjBTx7M): 
+[mkdocs.org](https://www.mkdocs.org/): Un sito per la generazione di siti statici.
 
-[Errore caricamento pagina](https://colorlib.com/wp/themes/): 
+[netlify](https://netlify.app/): App per gestire e deployare web app.
 
-[Errore caricamento pagina](https://freenode.net/): 
+[File converter in cloud](https://cloudconvert.com/): Permette di convertire i file online. 
 
-[Errore caricamento pagina](https://sass-lang.com/): 
+[vividcloud.pro](https://vidcloud.pro/): Permette di condividere file video facilmente e si trovano molti video stock.
 
-[Errore caricamento pagina](https://www.mapbox.com/): 
+[paletton.com](https://www.paletton.com/#uid=70J0s0kllllaFw0g0qFqFg0w0aF): Ti aiuta nella scelta di palette di colore per un sito.
 
-[Errore caricamento pagina](https://shardingsphere.apache.org/): 
+[hackforum.net](https://hackforums.net/index.php): Un forum dove ci sono diverse guide sul hackeraggio.
 
-[Errore caricamento pagina](https://openlibrary.org/): 
+[multifilemirror.com](https://multifilemirror.com/): Permette l'upload di file su cloud.
 
-[squid : Optimising Web Delivery](http://www.squid-cache.org/): 
+[snapdrop.net](https://snapdrop.net/): Permette di condividere file con pc nella stessa subnet.
 
-[Errore caricamento pagina](https://en.wikipedia.org/wiki/Retr0bright): 
+[nulledbb Community](https://nulledbb.com/): Una comunità di qualsiasi cosa.
 
-[Errore caricamento pagina](https://www.mkdocs.org/): 
+[codepen.io](https://codepen.io/): Permette di scrivere codice ed eseguirlo online.
 
-[Errore caricamento pagina](https://netlify.app/): 
+[zimtools.xyz](https://zimtools.xyz/): Permette di configurare i comandi linux da cli, sul web WGET,YOUTUBE-DL, CURL, FFMPEG, ZEIVER.
 
-[Errore caricamento pagina](https://cloudconvert.com/): 
+[linuxtechtips](https://linustechtips.com/forum/13-tech-news/): Formum con tips su linux.
 
-[Errore caricamento pagina](https://vidcloud.pro/): 
+[DOWNLOAD BOOKS](http://www.survivorlibrary.com/library-download): Contiene molti libri ebook in download gratuito.
 
-[Errore caricamento pagina](https://www.paletton.com/#uid=70J0s0kllllaFw0g0qFqFg0w0aF): 
+[IPTV community](https://iptv.community/): Forum sulle iptv. 
 
-[Errore caricamento pagina](https://hackforums.net/index.php): 
+[crackingking.com](https://crackingking.com/): Un forum dove ci sono info su come crackkare qualche tool che potrebbe essere utile.
 
-[Errore caricamento pagina](https://multifilemirror.com/): 
+[unsee.cc](https://unsee.cc/): Permette di hostare immagini online temporaneamente.
 
-[Errore caricamento pagina](https://snapdrop.net/): 
+[Alternative open source](https://opensource.builders/): Alternative opensource a tool esistenti.
 
-[Errore caricamento pagina](https://nulledbb.com/): 
+[Test for website](https://gf.dev/toolbox): Permette di effettuare vari test a siti web.
 
-[Errore caricamento pagina](https://codepen.io/trending): 
+[securityweek.com](https://www.securityweek.com/): Info news sulla sicurezza informatica.
 
-[Errore caricamento pagina](https://zimtools.xyz/): 
+[Fontget](https://www.fontget.com/): Qui ci sono molti font da scaricare.
 
-[Errore caricamento pagina](https://linustechtips.com/forum/13-tech-news/): 
+[Wordpress themes free](https://gpldl.com/): Qui ci sono temi gratuiti per wordpress.
 
-[Errore caricamento pagina](https://desirecourse.net/): 
+[Inviare file grandi dimenioni](https://www.swisstransfer.com/it): Permette di inviare file fino a 50 gb.
 
-[DOWNLOAD BOOKS](http://www.survivorlibrary.com/library-download): 
+[Motore torrent](https://ext.to/): Un motore di torrent.
 
-[Attenzione: potenziale rischio per la sicurezza](https://mp3quack.live/): 
+[Accademic paper torrent](https://academictorrents.com/): Un motore di torrent per paper accademici.
 
-[Errore caricamento pagina](https://iptv.community/): 
+[Games](https://www.newgamesbox.net/): Molti giochi free to play.
 
-[Errore caricamento pagina](https://crackingking.com/): 
+[libraries.io](https://libraries.io/): Ricerca libreria per qualsiasi framework, package...
 
-[Errore caricamento pagina](https://unsee.cc/): 
+[nohat.cc](https://nohat.cc/): Ricerca immagini stock.
 
-[Errore caricamento pagina](https://ogusers.com/): 
+[Creare chat](https://ziggs.io/): Permette la creazione di chat anonime.
 
-[Errore caricamento pagina](https://opensource.builders/): 
+[awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin/blob/master/README.md): Risorse buone per sysadmin.
 
-[Errore caricamento pagina](https://bestblackhatforum.com/): 
+[tinyzonetv.to](https://tinyzonetv.to/): Permette di vedere serie tv gratis.
 
-[Errore caricamento pagina](https://gf.dev/toolbox): 
+[Reddit analyser](https://reddit-user-analyser.netlify.app/#paolocannone): Permette di analizzare le statistiche di un utente di reddit.
 
-[Errore caricamento pagina](https://www.securityweek.com/): 
+[fromsmash.com](https://fromsmash.com/): Permette di condividere file.
 
-[Errore caricamento pagina](https://www.fontget.com/): 
+[rapidgrab.pl](https://rapidgrab.pl/): Permette di scaricare cose mediante questo sito.
 
-[Errore caricamento pagina](https://gpldl.com/): 
+[Rimuove sfondo](https://burner.bonanza.com/#): Cerca di rimuovere lo sfondo online.
 
-[Errore caricamento pagina](https://www.swisstransfer.com/it): 
+[rescuezilla.com](https://rescuezilla.com/): ISO di rescu zilla, compatibile con clonezilla.
 
-[Errore caricamento pagina](https://ext.to/): 
+[httpied.io](https://httpie.io/): Client cli per linux, per chiamate http
 
-[Errore caricamento pagina](https://academictorrents.com/): 
+[tecmint.com](https://www.tecmint.com/red-hat-rhcsa-rhce-exam-certification-book/): Guida per red hat rhcsa esame.
 
-[Errore caricamento pagina](https://www.newgamesbox.net/): 
+[celestia.space](https://celestia.space/): Un tool per vedere lo spazio in 3D.
 
-[Errore caricamento pagina](https://www.newgamesbox.net/skirmish-free-download/): 
+[tecmint.com](https://www.tecmint.com/ip-address-management-tools-for-linux/): Tool per address management.
 
-[Errore caricamento pagina](https://libraries.io/): 
+[zeroshell.org](https://zeroshell.org/): Linux router.
 
-[Errore caricamento pagina](https://nohat.cc/): 
+[freenas.org](https://www.freenas.org/): Permette di creare un nas.
 
-[Errore caricamento pagina](https://opinionatedguide.github.io/): 
-
-[Errore caricamento pagina](https://ziggs.io/): 
-
-[awesome-sysadmin/README.md at master · n1trux/awesome-sysadmin](https://github.com/n1trux/awesome-sysadmin/blob/master/README.md): 
-
-[Errore caricamento pagina](https://tinyzonetv.to/): 
-
-[Errore caricamento pagina](https://reddit-user-analyser.netlify.app/#paolocannone): 
-
-[Errore caricamento pagina](https://fromsmash.com/): 
-
-[Errore caricamento pagina](https://rapidgrab.pl/): 
-
-[Errore caricamento pagina](https://burner.bonanza.com/#): 
-
-[Errore caricamento pagina](https://rescuezilla.com/): 
-
-[Errore caricamento pagina](https://httpie.io/): 
-
-[Errore caricamento pagina](https://www.tecmint.com/red-hat-rhcsa-rhce-exam-certification-book/): 
-
-[Errore caricamento pagina](https://celestia.space/): 
-
-[Errore caricamento pagina](https://www.tecmint.com/ip-address-management-tools-for-linux/): 
-
-[Errore caricamento pagina](https://zeroshell.org/): 
-
-[Errore caricamento pagina](https://www.freenas.org/): 
-
-[Errore caricamento pagina](https://etherpad.org/): 
+[etherpad.org](https://etherpad.org/): Editor di testo online gratis e opensource.
 
 [Errore caricamento pagina](https://www.cyberciti.biz/tips/bash-shell-parameter-substitution-2.html): 
 
