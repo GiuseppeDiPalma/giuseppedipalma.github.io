@@ -1,5 +1,5 @@
 ﻿# Collection of web resources
-*last update: 08/04/2021*
+*last update: 14/04/2021*
 
 *Now I have to open each site and write down what it is!!*
 
@@ -509,425 +509,203 @@ __For future updates, I would like to break them up into fields.__
 
 [Animated sprite editor & pixel art tool](https://www.aseprite.org/): Tool che permette di creare pixel art.
 
-[Errore caricamento pagina](https://www.startpage.com/): 
+[startpage.com](https://www.startpage.com/): Motore di ricerca che non mantiene le ricerche private.
 
-[Errore caricamento pagina](https://www.miamammausalinux.org/?doing_wp_cron=1602750194.5048758983612060546875): 
+[Blog italiano su linux](https://www.miamammausalinux.org): Blog italiano su linux.
 
-[Errore caricamento pagina](https://openzfs.org/wiki/Main_Page): 
+[o-zfs](https://openzfs.org/wiki/Main_Page): Particolare file system.
 
-[Errore caricamento pagina](https://www.gensh.in/events/promotion-codes): 
+[framer.com](https://www.framer.com/pricing/): Permette di disegnare mockup per applicazioni phone.
 
-[Errore caricamento pagina](https://www.codechef.com/): 
+[figma.com](https://www.figma.com/): Permette di disegnare mockup anche in modo collaborativo.
 
-[Errore caricamento pagina](https://www.framer.com/pricing/): 
+[socrative.com](https://www.socrative.com/plans/): Creazione e gestione di classi scolastiche.
 
-[Errore caricamento pagina](https://www.figma.com/): 
+[pollev.com](https://pollev.com/): Permette di creare questionari, poll e presentazioni online.
 
-[Errore caricamento pagina](https://www.socrative.com/plans/): 
+[miro.com](https://miro.com/): Permette di disegnare mockup anche in modo collaborativo.
 
-[Errore caricamento pagina](https://pollev.com/): 
+[The Penetration Testing Execution Standard](http://www.pentest-standard.org/index.php/Main_Page): PTES wikia.
 
-[Errore caricamento pagina](https://miro.com/): 
+[Python web library](https://palletsprojects.com/): Collezione di librerie per sviluppo web in python.
 
-[The Penetration Testing Execution Standard](http://www.pentest-standard.org/index.php/Main_Page): 
+[typed.js](https://mattboldt.com/demos/typed-js/): Grafica da terminale su pagine web.
 
-[Errore caricamento pagina](https://palletsprojects.com/): 
+[gatsbyjs.com](https://www.gatsbyjs.com/): Permette di creare siti web statici facilmente.
 
-[Errore caricamento pagina](https://mattboldt.com/demos/typed-js/): 
+[gatsbyjs site publish](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default): Permette di pubblicare i siti web statici.
 
-[Errore caricamento pagina](https://www.gatsbyjs.com/): 
+[charm.sh](https://charm.sh/): Terminale con colori sfavillanti.
 
-[Errore caricamento pagina](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default): 
+[mendeley.com](https://www.mendeley.com): Permette di ricercare paper e altre cose.
 
-[Errore caricamento pagina](https://www.tidytuesday.com/): 
+[Miglior blog scientifico](https://www.thelancet.com/): Blog interessante e serio sulla scienza.
 
-[Errore caricamento pagina](https://charm.sh/): 
+[iconscout.com](https://iconscout.com/): Qui è possibile scaricare molte icone e grafiche.
 
-[Errore caricamento pagina](https://www.mendeley.com/homepage-2-1?interaction_required=true&adobe_mc_sdid=SDID%3D5FEEBE8E07391886-444D012AF1419904%7CMCORGID%3D4D6368F454EC41940A4C98A6%40AdobeOrg%7CTS%3D1602672306&adobe_mc_ref=https%3A%2F%2Fwww.google.com%2F): 
+[terminus.com](https://termius.com/): Migliore app per cell per il terminale ssh.
 
-[iconscout.com/icons/avatar?specialscout=true](about:blank): 
+[groovy-lang.org](https://groovy-lang.org/): Linguaggio di programmazione per le java plataform.
 
-[Errore caricamento pagina](https://termius.com/): 
+[tryhackme.com](https://tryhackme.com/dashboard): Sito dove è possibile allenare le doti di hacker.
 
-[Errore caricamento pagina](https://groovy-lang.org/): 
+[shellngn.com](https://shellngn.com/): Client web ssh per gestione di terminali anche cloud.
 
-[Errore caricamento pagina](https://www.groove.co/platform/): 
+[mvnrepository.com](https://mvnrepository.com/): Maven repository.
 
-[Errore caricamento pagina](https://medium.com/): 
+[notion.so](https://www.notion.so/): Permette di creare todo list.
 
-[Errore caricamento pagina](https://tryhackme.com/dashboard): 
+[tindie.com](https://www.tindie.com/): Permette di acquistare cose elettroniche particolari, gadget.
 
-[Errore caricamento pagina](https://www.howtogeek.com/): 
+[dev.to](https://dev.to/): Social network per sviluppatori.
 
-[Errore caricamento pagina](https://eugeny.github.io/terminus/): 
+[allcontributors.org](https://allcontributors.org/docs/en/emoji-key): Bot per aggiungere contributori su github.
 
-[Errore caricamento pagina](https://shellngn.com/): 
+[Generate GitHub profile README](https://github.com/rahuldkjain/github-profile-readme-generator): Permette di generare la pagina readme di github.
 
-[Errore caricamento pagina](https://www.offensive-security.com/): 
+[invisionapp.com](https://www.invisionapp.com/home): Permette di disegnare mockup insieme.
 
-[Errore caricamento pagina](https://mvnrepository.com/): 
+[realm.io](https://realm.io/): Database open source per applicazioni.
 
-[Errore caricamento pagina](https://www.notion.so/): 
+[Improve your README with badges.](https://github.com/alexandresanlim/Badges4-README.md-Profile): Badge particolari per github.
 
-[Errore caricamento pagina](https://wirescript.now.sh/): 
+[simpleicons.org](https://simpleicons.org/): Qui ci sono molte icone svg gratis.
 
-[Errore caricamento pagina](https://www.tindie.com/): 
+[academia.edu](https://www.academia.edu/): Permette di ricercare molti papers.
 
-[Errore caricamento pagina](https://dev.to/): 
+[python compiler web](https://www.pythonanywhere.com/): Permette di eseguire codice python online.
 
-[Errore caricamento pagina](https://allcontributors.org/docs/en/emoji-key): 
+[Guida: creare la propria distro](https://www.laseroffice.it/blog/2018/06/03/8-strumenti-per-creare-facilmente-la-propria-distro-linux-personalizzata/): Guide per creare la propria distro linux.
 
-[rahuldkjain/github-profile-readme-generator: 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.](https://github.com/rahuldkjain/github-profile-readme-generator): 
+[cmder.net](https://cmder.net/): Terminal linux for windows.
 
-[Errore caricamento pagina](https://www.invisionapp.com/home): 
+[vagrantup.com](https://www.vagrantup.com/): Permette di creare infrastrutture server facilmente.
 
-[Errore caricamento pagina](https://realm.io/): 
+[pi-hole.net](https://pi-hole.net/): Tool per raspberry che fa da filtro per pubblicità.
 
-[alexandresanlim/Badges4-README.md-Profile: 👩‍💻👨‍💻 Improve your README.md profile with these amazing badges.](https://github.com/alexandresanlim/Badges4-README.md-Profile): 
+[geekprank.com](https://geekprank.com/): Un semplice sito stupido.
 
-[Errore caricamento pagina](https://simpleicons.org/): 
+[Portale runner italiani](https://www.runningitalia.it/): Un portale per rimanere aggiornato sulle corse in italia.
 
-[Errore caricamento pagina](https://www.academia.edu/): 
+[Browser offline](https://www.httrack.com/): Permette di scaricare e navigare un sito web completamente offline.
 
-[Errore caricamento pagina](https://www.pythonanywhere.com/): 
+[Tool per forensica](https://www.hashbot.it/): Tool per validare pagine web anche se scadute.
 
-[Errore caricamento pagina](https://www.laseroffice.it/blog/2018/06/03/8-strumenti-per-creare-facilmente-la-propria-distro-linux-personalizzata/): 
+[Color usage](https://uxdesign.cc/10-principles-for-color-usage-in-ui-design-65174b213004): Principi su come usare i colori su siti web.
 
-[Errore caricamento pagina](https://www.lffl.org/): 
+[tcl lang](https://it.wikipedia.org/wiki/Tcl): Linguaggio di programmazione facile e potente.
 
-[Errore caricamento pagina](https://cmder.net/): 
+[Save Microsoft Stream videos offline](https://github.com/snobu/destreamer): Permette di scaricare le lezioni di teams.
 
-[Errore caricamento pagina](https://www.vagrantup.com/): 
+[polipo](https://www.irif.fr/~jch//software/polipo/): Http proxy.
 
-[Errore caricamento pagina](https://pi-hole.net/): 
+[bandit0](https://overthewire.org/wargames/bandit/bandit0.html): Gioco online per conoscenze hacker e linux.
 
-[Errore caricamento pagina](https://geekprank.com/): 
+[Creare multi boot usb](https://www.pendrivelinux.com/multiboot-create-a-multiboot-usb-from-linux/): Guida per creare una usb con vari sistemi operativi.
 
-[Errore caricamento pagina](https://geekprank.com/hacker/): 
+[News Hacker](https://www.hackerday.it/): Blog con news sulla sicurezza informatica.
 
-[Errore caricamento pagina](https://www.runningitalia.it/): 
+[Bash to binary](https://en.terminalroot.com.br/how-to-convert-your-shell-script-to-binary/): Come convertire il codice bash in un binario da eseguire.
 
-[Errore caricamento pagina](https://www.httrack.com/): 
+[Linux tips](https://tldr.sh/): Permette di avere una semplificazione dei comandi linux.
 
-[Errore caricamento pagina](https://www.hashbot.it/): 
+[selinux.com](https://stopdisablingselinux.com/): Perche non disattivare selinux.
 
-[Errore caricamento pagina](https://blackarch.org/downloads.html): 
+[Scalable Python Framework for cluster administration](http://cea-hpc.github.io/clustershell/): Shell python che permette la gestione di cluster.
 
-[Errore caricamento pagina](https://uxdesign.cc/10-principles-for-color-usage-in-ui-design-65174b213004): 
+[mosh shell](https://mosh.org/): Una shell che non perde la connettività dopo cali di rete.
 
-[Errore caricamento pagina](https://visualstudio.microsoft.com/it/services/live-share/): 
+[Linux Kernel Map](https://makelinux.github.io/kernel/map/): La mappa dell'intero kernel linux.
 
-[Errore caricamento pagina](https://it.wikipedia.org/wiki/Tcl): 
+[Gestore pacchetti windows](https://chocolatey.org/): Permette la gestione dei pacchetti su windows, in modo rapido e facile.
 
-[snobu/destreamer: Save Microsoft Stream videos for offline enjoyment.](https://github.com/snobu/destreamer): 
+[Terminal](https://hyper.is/): Un terminale veramente figo, da vedere.
 
-[Errore caricamento pagina](https://www.irif.fr/~jch//software/polipo/): 
+[lbry.com](https://lbry.com/): Rete collaborativa per creare e hostare contenuti.
 
-[Errore caricamento pagina](https://overthewire.org/wargames/bandit/bandit0.html): 
+[diasporafoundation.org](https://diasporafoundation.org/): Progetto diaspora, social network decentralizzato.
 
-[Errore caricamento pagina](https://www.pendrivelinux.com/multiboot-create-a-multiboot-usb-from-linux/): 
+[Egitignore](https://www.toptal.com/developers/gitignore): Creare un gitignore online.
 
-[Errore caricamento pagina](https://www.hackerday.it/): 
+[Generatore di foto](https://picsum.photos/): Permette di scegliere foto casuali per siti web.
 
-[Errore caricamento pagina](https://en.terminalroot.com.br/how-to-convert-your-shell-script-to-binary/): 
+[mioSito](https://www.codeseek.co/preview/dOjzaM): Il tipo per le dritte del sito.
 
-[Errore caricamento pagina](https://tldr.sh/): 
+[Virus analisi](https://www.hybrid-analysis.com/): Permette di effettuare l'analisi di virus su file.
 
-[Errore caricamento pagina](https://stopdisablingselinux.com/): 
+[Virus analisi](https://www.virustotal.com/gui/home/upload): Permette di effettuare l'analisi di virus su file.
 
-[ClusterShell - Scalable Python Framework for cluster administration](http://cea-hpc.github.io/clustershell/): 
+[Risolvere Ransonware](https://id-ransomware.malwarehunterteam.com/index.php?lang=it_IT): Permette di scoprire se c'è qualche chiave per qualche ransonwere.
 
-[Errore caricamento pagina](https://mosh.org/): 
+[alternativeto.net](https://alternativeto.net/): Permette di cercare alternative a tool a pagamento.
 
-[403 Forbidden](http://a2.pluto.it/a2/a2177.htm#almlanchor18835): 
+[zotero.org](https://www.zotero.org/): Permette di gestire le citazioni di paper e organizzarle.
 
-[Errore caricamento pagina](https://makelinux.github.io/kernel/map/): 
+[posterstore.it](https://posterstore.it/stampe-poster/illustrazioni-poster-astratti/): E-commerce di poster astratti.
 
-[Errore caricamento pagina](https://elementorcodes.com/): 
+[duda.co](https://www.duda.co/): Permette di costruire e-commerce a poco.
 
-[Errore caricamento pagina](https://healthwaregroup.bamboohr.com/jobs/view.php?id=24): 
+[abbonamenti.it](https://www.abbonamenti.it/): Abbonamenti a riviste spesso scontati.
 
-[Errore caricamento pagina](https://chocolatey.org/): 
+[Storpionimi](http://www.storpionimi.it/): Un sito che elenca tutte le frase dislessiche.
 
-[Errore caricamento pagina](https://hyper.is/): 
+[graphemica.com](https://graphemica.com): Permette di trovare tutti i simboli usati sul web.
 
-[Errore caricamento pagina](https://lbry.com/): 
+[Font a pagamento](https://pangrampangram.com/): Questo sito vende font.
 
-[Errore caricamento pagina](https://diasporafoundation.org/): 
+[Molti test per umani](https://humanbenchmark.com/tests): Permette di effettuare alcuni test per persone.
 
-[Errore caricamento pagina](https://www.toptal.com/developers/gitignore): 
+[AimBooster](http://www.aimbooster.com/): Utile per misurare la precisione con il mouse.
 
-[Errore caricamento pagina](https://picsum.photos/): 
+[Linux blog](https://linuxize.com/): Un blog su linux fatto bene.
 
-[Errore caricamento pagina](https://www.codeseek.co/): 
+[Generatore nickname](https://jimpix.co.uk/words/random-username-generator.asp?fbclid=IwAR1BTQw63hLiUpBkFvcY_RhvU4O_Hv6wOoVnZ74GYkmExtzMzCCr9EF1Rww): Permette di generare nickname in modo facile e veloce.
 
-[Errore caricamento pagina](https://www.codeseek.co/preview/dOjzaM): 
+[Immagini da piazzare](https://placeholder.com/): Piazza queste immagini al posto di immagini di esempio su siti web.
 
-[Errore caricamento pagina](https://www.hybrid-analysis.com/): 
+[Icone SVG](https://www.heroicons.com/): Molte icone svg gratis.
 
-[Errore caricamento pagina](https://www.virustotal.com/gui/home/upload): 
+[Coolors generator](https://coolors.co/): Genera varie palette di colori.
 
-[Errore caricamento pagina](https://id-ransomware.malwarehunterteam.com/index.php?lang=it_IT): 
+[Top siti belli](https://www.sitebuilderreport.com/inspiration/?fbclid=IwAR02KbLLCYiyiltkofQ7m2-rf8txOeUL5PAgmUAz0PC4xG3uVSGqTkC8evk): Permette di vedere una serie di classifiche di vari siti.
 
-[Errore caricamento pagina](https://www.philips.it/c-p/S7970_19/shaver-series-7000-rasoio-elettrico-wet-dry): 
+[facebook font generator](https://fsymbols.com/font/facebook): Permette di creare del testo particolare per facebook.
 
-[Errore caricamento pagina](https://alternativeto.net/): 
+[discord font](https://jtprince.com/discord/): Permette di trasformare il testo in emoji per discord.
 
-[Errore caricamento pagina](https://www.zotero.org/): 
+[icons8.com](https://icons8.com/illustrations?fbclid=IwAR1spsUszj_RKduomodjJAZzK8ZJnw9tT0dkf8cnmV9hOeG8B1pNL-0sAIw): Molte pagine con icone svg e illustrazioni gratis.
 
-[UserFriendly.Org](http://ars.userfriendly.org/): 
+[Illustrazioni](https://www.glazestock.com/?fbclid=IwAR1aiQKOOcXL7HqO26r5-ZoHi518PBCH8POadxiQ13RQiX1IT5K2uc2HpZQ): Molte pagine con illustrazioni gratis.
 
-[Errore caricamento pagina](https://posterstore.it/stampe-poster/illustrazioni-poster-astratti/): 
+[checklist.design](https://www.checklist.design/): Permette di realizzare checklist veramente belle.
 
-[Errore caricamento pagina](https://www.duda.co/): 
+[concorsi](http://www.mininterno.net/gu-concorsi): Qui ci sono tutti i concorsi aggiornati.
 
-[Errore caricamento pagina](https://www.abbonamenti.it/): 
+[Schell curl tool](https://ec2.shop/): Permette di ottenere con curl il costo delle istanze ec2 su aws.
 
-[Storpionimi](http://www.storpionimi.it/): 
+[desenio.it](https://desenio.it/it/poster/piu-popolari-poster#{}): E-commerce di poster.
 
-[Errore caricamento pagina](https://graphemica.com/%E2%98%B0):
+[Creare un cms](https://www.themeum.com/product/tutor-lms/): Permette di creare un cms e siti web.
 
-[Errore caricamento pagina](https://pangrampangram.com/): 
+[Free image](https://www.gettyimages.it/): Ci sono tantissime foto gratis.
 
-[Errore caricamento pagina](https://humanbenchmark.com/tests/reactiontime): 
+[Siti web builder](https://www.brizy.io/): Permette di creare siti web in modo facile e veloce.
 
-[AimBooster](http://www.aimbooster.com/): 
+[Elementor library](https://unlimited-elements.com/): Risorse per elementor.
 
-[Errore caricamento pagina](https://elementorcodes.com/elementor-show-hide-section/?fbclid=IwAR0ZeQhdeS-Sjpu5Hr4KYs6A6QquxAD5Fmt-fpxHaXgFesIpP4pjx7hhJSk): 
+[marvelapp.com](https://marvelapp.com/): Permette la costruzione di mockup per applicazioni phone.
 
-[Errore caricamento pagina](https://linuxize.com/): 
+[flinto.com](https://www.flinto.com/): Permette la costruzione di mockup per applicazioni phone.
 
-[Errore caricamento pagina](https://www.awwwards.com/95-inspiring-websites-of-web-design-agencies.html):
+[Terminal vscode](https://glitchbone.github.io/vscode-base16-term/#/3024): Colori per il terminale di vscode.
 
-[Errore caricamento pagina](https://jimpix.co.uk/words/random-username-generator.asp?fbclid=IwAR1BTQw63hLiUpBkFvcY_RhvU4O_Hv6wOoVnZ74GYkmExtzMzCCr9EF1Rww): 
+[ngrock.com](https://ngrok.com/): Testare il chat bot online.
 
-[Errore caricamento pagina](https://placeholder.com/): 
+[Abbinamento colori](https://mycolor.space/?hex=%23FC8B39&sub=1): Genera paletta di colori da un colore.
 
-[Errore caricamento pagina](https://www.heroicons.com/): 
-
-[Errore caricamento pagina](https://coolors.co/): 
-
-[Errore caricamento pagina](https://www.sitebuilderreport.com/inspiration/?fbclid=IwAR02KbLLCYiyiltkofQ7m2-rf8txOeUL5PAgmUAz0PC4xG3uVSGqTkC8evk): 
-
-[Errore caricamento pagina](https://fsymbols.com/font/facebook): 
-
-[Errore caricamento pagina](https://icons8.com/illustrations?fbclid=IwAR1spsUszj_RKduomodjJAZzK8ZJnw9tT0dkf8cnmV9hOeG8B1pNL-0sAIw): 
-
-[Errore caricamento pagina](https://www.glazestock.com/?fbclid=IwAR1aiQKOOcXL7HqO26r5-ZoHi518PBCH8POadxiQ13RQiX1IT5K2uc2HpZQ): 
-
-[Errore caricamento pagina](https://www.checklist.design/): 
-
-[Errore caricamento pagina](https://www.freepik.com/?fbclid=IwAR30gGn21_GFs_6LyRIAUaG-MYdQjVsF5DhLq4n4VqfNXtw00nEdieHeOug): 
-
-[erikosterberg.com/terminaljs/](about:blank): 
-
-[mininterno.net/gu-concorsi](http://www.mininterno.net/gu-concorsi): 
-
-[Errore caricamento pagina](https://ec2.shop/): 
-
-[Errore caricamento pagina](https://lottiefiles.com/): 
-
-[Errore caricamento pagina](https://www.html.it/22/07/2016/texture-photoshop-le-migliori-risorse-online/): 
-
-[Errore caricamento pagina](https://desenio.it/it/poster/piu-popolari-poster#{}): 
-
-[Errore caricamento pagina](https://www.themeum.com/product/tutor-lms/): 
-
-[Errore caricamento pagina](https://digitaleasyhai.com/): 
-
-[Errore caricamento pagina](https://www.gettyimages.it/): 
-
-[Errore caricamento pagina](https://www.brizy.io/): 
-
-[Errore caricamento pagina](https://unlimited-elements.com/): 
-
-[Errore caricamento pagina](https://marvelapp.com/): 
-
-[MarvelApp - Cerca con Google](https://www.google.com/search?client=firefox-b-d&q=MarvelApp): 
-
-[Errore caricamento pagina](https://www.flinto.com/): 
-
-[Errore caricamento pagina](https://glitchbone.github.io/vscode-base16-term/#/3024): 
-
-[Errore caricamento pagina](https://ngrok.com/): 
-
-[Errore caricamento pagina](https://mycolor.space/?hex=%23FC8B39&sub=1): 
-
-[Errore caricamento pagina](https://sicurezzaintelligente.it/): 
-
-[Errore caricamento pagina](https://dortheaakerstrom.dk/?fbclid=IwAR17Pl-BirVIVTYLDt7QlEzGv_TaynLOKWX560G-8FrVS76bg7nuLfY-6Xs): 
-
-[Errore caricamento pagina](https://lonekjaergaard.dk/?fbclid=IwAR1z4IFgVB4RSKq5M8HYFaiVzDvAenUCQuhrAGiwubyalfT7z1DbdDI85bg): 
-
-[Errore caricamento pagina](https://freefrontend.com/css-button-hover-effects/): 
-
-[Errore caricamento pagina](https://www.videvo.net/stock-video-footage/overlay/): 
-
-[Errore caricamento pagina](https://elementor.com/blog/design-your-single-post-template/): 
-
-[Errore caricamento pagina](https://www.youtube.com/watch?v=nQdRvnd-PJ0): 
+[Video](https://www.videvo.net/stock-video-footage/overlay/): Screen video gratis.
 
 [Errore caricamento pagina](https://geekflare.com/create-application-architecture-diagram/): 
-
-[Errore caricamento pagina](https://www.portaledelverde.it/enciclopedia/orto/peperoncini-piccanti/peperoncino-acrata/): 
-
-[marktext/marktext: 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.](https://github.com/marktext/marktext): 
-
-[Errore caricamento pagina](https://be.live/): 
-
-[Errore caricamento pagina](https://lumen5.com/): 
-
-[Errore caricamento pagina](https://www.moovly.com/video-templates): 
-
-[Errore caricamento pagina](https://motionden.com/templates/online-store): 
-
-[Errore caricamento pagina](https://wave.video/): 
-
-[Errore caricamento pagina](https://www.renderforest.com/): 
-
-[Errore caricamento pagina](https://animoto.com/b/pricing): 
-
-[Errore caricamento pagina](https://www.talkwalker.com/it/talkwalker-alerts-la-miglior-alternativa-gratuita-a-google-alerts): 
-
-[Errore caricamento pagina](https://typito.com/go): 
-
-[Errore caricamento pagina](https://unsplash.com/): 
-
-[zoomerbackgrounds.com/](about:blank): 
-
-[Errore caricamento pagina](https://tecnobabele.istocks.club/come-vivere-lo-streaming-su-youtube-con-obs/2020-02-12/): 
-
-[Errore caricamento pagina](https://www.youtube.com/watch?v=0GsK-b-3coo): 
-
-[Errore caricamento pagina](https://it.wikipedia.org/wiki/Effetto_Dunning-Kruger?fbclid=IwAR2S9OUuBg0iWJRJ-X-T3QHoOpHX90vO85ENdTyUj1pxsixicBfiYcjjHcU): 
-
-[Errore caricamento pagina](https://i3wm.org/): 
-
-[Errore caricamento pagina](https://shields.io/): 
-
-[Errore caricamento pagina](https://www.pexels.com/it-it/): 
-
-[Errore caricamento pagina](https://aurasicurezza.com/): 
-
-[Errore caricamento pagina](https://www.fiverr.com/jscreators/create-your-social-media-plan-for-ig-fb-linkedin?context_referrer=search_gigs&source=top-bar&ref_ctx_id=4054ae00-2be0-42ff-a85a-cab8957e49ef&pckg_id=1&pos=10): 
-
-[Errore caricamento pagina](https://www.fiverr.com/danieleseveso/be-your-italian-social-media-marketing-manager?context_referrer=search_gigs&source=top-bar&ref_ctx_id=39499ea6-3559-45f8-ac29-bde1732c59f0&pckg_id=1&pos=1): 
-
-[Errore caricamento pagina](https://www.fiverr.com/search/gigs?query=articolo&source=top-bar&search_in=everywhere&search-autocomplete-original-term=articolo): 
-
-[Errore caricamento pagina](https://www.fiverr.com/jacopotarta/write-your-perfect-next-blog-article?context_referrer=search_gigs&source=top-bar&ref_ctx_id=01caac98-5418-4f8b-b7dc-65b7abfd0583&pckg_id=1&pos=7): 
-
-[Errore caricamento pagina](https://www.fiverr.com/abdulgan02/scrivere-un-articolo-per-il-tuo-blog-o-per-il-tuo-giornale?context_referrer=search_gigs&source=top-bar&ref_ctx_id=01caac98-5418-4f8b-b7dc-65b7abfd0583&pckg_id=1&pos=2): 
-
-[Errore caricamento pagina](https://www.fiverr.com/marioverniero/scrivo-articoli-per-blog-in-italiano-su-qualsiasi-argomento): 
-
-[Errore caricamento pagina](https://www.fiverr.com/search/gigs?query=stesura%20articolo&source=top-bar&search_in=everywhere&search-autocomplete-original-term=stesura%20articolo): 
-
-[Errore caricamento pagina](https://www.fiverr.com/lilyite/scrittura-articoli-settore-travel-e-culture?context_referrer=search_gigs&source=top-bar&ref_ctx_id=844859d4-ed7b-4289-9e49-94878223d225&pckg_id=1&pos=1): 
-
-[Errore caricamento pagina](https://www.fiverr.com/raffaele1985/scrittura-articoli-per-blog-e-siti-internet?context_referrer=search_gigs&source=top-bar&ref_ctx_id=844859d4-ed7b-4289-9e49-94878223d225&pckg_id=1&pos=2): 
-
-
-[Errore caricamento pagina](https://my.elementor.com/purchases/): 
-
-[nocommentlab.it/](about:blank): 
-
-[Errore caricamento pagina](https://stackoverflow.com/questions/24641536/how-to-set-java-home-in-linux-for-all-users): 
-
-[Errore caricamento pagina](https://community.adobe.com/t5/illustrator/make-transparent-rectangles-illustrator/m-p/11323361?page=1#M187403): 
-
-[Errore caricamento pagina](https://domains.google.com/registrar/giuseppedp.page?hl=it): 
-
-[Errore caricamento pagina](https://tailwindcss.com/): 
-
-[Errore caricamento pagina](https://www.integromat.com/en/): 
-
-[Errore caricamento pagina](https://marktext.app/): 
-
-[Errore caricamento pagina](https://www.spreadthesign.com/it.it/search/): 
-
-[Errore caricamento pagina](https://www.percona.com/software/database-tools/percona-monitoring-and-management): 
-
-[Errore caricamento pagina](https://www.moneyfarm.com/it/): 
-
-[Errore caricamento pagina](https://www.duplichecker.com/): 
-
-[Plagiarisma | Plagiarism Checker](http://plagiarisma.net/): 
-
-[deskreen.com/](about:blank): 
-
-[Errore caricamento pagina](https://revolist.github.io/revogrid/): 
-
-[Errore caricamento pagina](https://processhacker.sourceforge.io/): 
-
-[Errore caricamento pagina](https://www.cubbit.io/): 
-
-[Errore caricamento pagina](https://www.ionos.it/digitalguide/server/know-how/carddav/): 
-
-[Errore caricamento pagina](https://radicale.org/3.0.html): 
-
-[Errore caricamento pagina](https://xpenology.org/): 
-
-[Errore caricamento pagina](https://www.balena.io/etcher/): 
-
-[Errore caricamento pagina](https://www.genial.ly/): 
-
-[forum.tomshw.it/](about:blank): 
-
-[Errore caricamento pagina](https://www.lffl.org/2020/12/guida-server-streaming-obs-nginx.html): 
-
-[Errore caricamento pagina](https://www.zerochan.net/): 
-
-[Errore caricamento pagina](https://www.soufeel.it/apparel/bottoms/custom-socks/knee-high-socks): 
-
-[Errore caricamento pagina](https://code.google.com/): 
-
-[Errore caricamento pagina](https://code.google.com/archive/d/code.google.com): 
-
-[Errore caricamento pagina](https://whiteboard.microsoft.com/): 
-
-[Errore caricamento pagina](https://spatial.chat/): 
-
-[Spinoza](http://www.spinoza.it/): 
-
-[Errore caricamento pagina](https://www.lansweeper.com/): 
-
-[Errore caricamento pagina](https://support.google.com/webmasters/answer/47334?hl=en&fbclid=IwAR25ycdCXIuNUo7HJvRuyH4NxLzmDrETjZOXEZOJGfljxsnMzW1znVdH1_4): 
-
-[Errore caricamento pagina](https://howlongtoread.com/): 
-
-[Errore caricamento pagina](https://it.boardgamearena.com/): 
-
-[Errore caricamento pagina](https://algorithm-visualizer.org/): 
-
-[Errore caricamento pagina](https://flourish.studio/pricing/): 
-
-[Errore caricamento pagina](https://neovim.io/): 
-
-[Errore caricamento pagina](https://stackoverflow.com/questions/47958172/server-side-swift-basic-client-server-communication-example-for-ios-and-android): 
-
-[Errore caricamento pagina](https://www.kitura.dev/): 
-
-[Errore caricamento pagina](https://www.primevideo.com/search/ref=atv_dp_pd_dir?phrase=Takeshi%20Koike&ie=UTF8): 
-[w3af - Open Source Web Application Security Scanner](http://w3af.org/): 
-
-[Errore caricamento pagina](https://material-shell.com/#material-shell): 
-
-[material-shell.com/](about:blank): 
-
-[Errore caricamento pagina](https://www.animemusicvideos.org/members/members_myprofile.php?user_id=98760): 
-
-[Errore caricamento pagina](https://www.enablesecurity.com/publications): 
-
-[Errore caricamento pagina](https://www.rtcsec.com/): 
-
-[Errore caricamento pagina](https://pentester.land/): 
-
-[Errore caricamento pagina](https://pastelsky.github.io/curldiff/): 
-
-[Errore caricamento pagina](https://www.hacknos.com/monitoring-vulnhub-walkthrough/): 
-
-[Errore caricamento pagina](https://hacktips.it/tecniche-classificiazione-della-steganografia/): 
 
 [Errore caricamento pagina](https://netsec.ws/?p=337): 
 
@@ -1284,3 +1062,162 @@ __For future updates, I would like to break them up into fields.__
 [Errore caricamento pagina](https://www.pramp.com/#/): 
 
 [Errore caricamento pagina](https://www.splunk.com/): 
+
+[Errore caricamento pagina](https://www.portaledelverde.it/enciclopedia/orto/peperoncini-piccanti/peperoncino-acrata/): 
+
+[marktext/marktext: 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.](https://github.com/marktext/marktext): 
+
+[Errore caricamento pagina](https://be.live/): 
+
+[Errore caricamento pagina](https://lumen5.com/): 
+
+[Errore caricamento pagina](https://www.moovly.com/video-templates): 
+
+[Errore caricamento pagina](https://motionden.com/templates/online-store): 
+
+[Errore caricamento pagina](https://wave.video/): 
+
+[Errore caricamento pagina](https://www.renderforest.com/): 
+
+[Errore caricamento pagina](https://animoto.com/b/pricing): 
+
+[Errore caricamento pagina](https://www.talkwalker.com/it/talkwalker-alerts-la-miglior-alternativa-gratuita-a-google-alerts): 
+
+[Errore caricamento pagina](https://typito.com/go): 
+
+[Errore caricamento pagina](https://unsplash.com/): 
+
+[zoomerbackgrounds.com/](about:blank): 
+
+[Errore caricamento pagina](https://tecnobabele.istocks.club/come-vivere-lo-streaming-su-youtube-con-obs/2020-02-12/): 
+
+[Errore caricamento pagina](https://www.youtube.com/watch?v=0GsK-b-3coo): 
+
+[Errore caricamento pagina](https://it.wikipedia.org/wiki/Effetto_Dunning-Kruger?fbclid=IwAR2S9OUuBg0iWJRJ-X-T3QHoOpHX90vO85ENdTyUj1pxsixicBfiYcjjHcU): 
+
+[Errore caricamento pagina](https://i3wm.org/): 
+
+[Errore caricamento pagina](https://shields.io/): 
+
+[Errore caricamento pagina](https://www.pexels.com/it-it/): 
+
+[Errore caricamento pagina](https://aurasicurezza.com/): 
+
+[Errore caricamento pagina](https://www.fiverr.com/jscreators/create-your-social-media-plan-for-ig-fb-linkedin?context_referrer=search_gigs&source=top-bar&ref_ctx_id=4054ae00-2be0-42ff-a85a-cab8957e49ef&pckg_id=1&pos=10): 
+
+[Errore caricamento pagina](https://www.fiverr.com/danieleseveso/be-your-italian-social-media-marketing-manager?context_referrer=search_gigs&source=top-bar&ref_ctx_id=39499ea6-3559-45f8-ac29-bde1732c59f0&pckg_id=1&pos=1): 
+
+[Errore caricamento pagina](https://www.fiverr.com/search/gigs?query=articolo&source=top-bar&search_in=everywhere&search-autocomplete-original-term=articolo): 
+
+[Errore caricamento pagina](https://www.fiverr.com/jacopotarta/write-your-perfect-next-blog-article?context_referrer=search_gigs&source=top-bar&ref_ctx_id=01caac98-5418-4f8b-b7dc-65b7abfd0583&pckg_id=1&pos=7): 
+
+[Errore caricamento pagina](https://www.fiverr.com/abdulgan02/scrivere-un-articolo-per-il-tuo-blog-o-per-il-tuo-giornale?context_referrer=search_gigs&source=top-bar&ref_ctx_id=01caac98-5418-4f8b-b7dc-65b7abfd0583&pckg_id=1&pos=2): 
+
+[Errore caricamento pagina](https://www.fiverr.com/marioverniero/scrivo-articoli-per-blog-in-italiano-su-qualsiasi-argomento): 
+
+[Errore caricamento pagina](https://www.fiverr.com/search/gigs?query=stesura%20articolo&source=top-bar&search_in=everywhere&search-autocomplete-original-term=stesura%20articolo): 
+
+[Errore caricamento pagina](https://www.fiverr.com/lilyite/scrittura-articoli-settore-travel-e-culture?context_referrer=search_gigs&source=top-bar&ref_ctx_id=844859d4-ed7b-4289-9e49-94878223d225&pckg_id=1&pos=1): 
+
+[Errore caricamento pagina](https://www.fiverr.com/raffaele1985/scrittura-articoli-per-blog-e-siti-internet?context_referrer=search_gigs&source=top-bar&ref_ctx_id=844859d4-ed7b-4289-9e49-94878223d225&pckg_id=1&pos=2): 
+
+[Errore caricamento pagina](https://my.elementor.com/purchases/): 
+
+[nocommentlab.it/](about:blank): 
+
+[Errore caricamento pagina](https://stackoverflow.com/questions/24641536/how-to-set-java-home-in-linux-for-all-users): 
+
+[Errore caricamento pagina](https://community.adobe.com/t5/illustrator/make-transparent-rectangles-illustrator/m-p/11323361?page=1#M187403): 
+
+[Errore caricamento pagina](https://domains.google.com/registrar/giuseppedp.page?hl=it): 
+
+[Errore caricamento pagina](https://tailwindcss.com/): 
+
+[Errore caricamento pagina](https://www.integromat.com/en/): 
+
+[Errore caricamento pagina](https://marktext.app/): 
+
+[Errore caricamento pagina](https://www.spreadthesign.com/it.it/search/): 
+
+[Errore caricamento pagina](https://www.percona.com/software/database-tools/percona-monitoring-and-management): 
+
+[Errore caricamento pagina](https://www.moneyfarm.com/it/): 
+
+[Errore caricamento pagina](https://www.duplichecker.com/): 
+
+[Plagiarisma | Plagiarism Checker](http://plagiarisma.net/): 
+
+[deskreen.com/](about:blank): 
+
+[Errore caricamento pagina](https://revolist.github.io/revogrid/): 
+
+[Errore caricamento pagina](https://processhacker.sourceforge.io/): 
+
+[Errore caricamento pagina](https://www.cubbit.io/): 
+
+[Errore caricamento pagina](https://www.ionos.it/digitalguide/server/know-how/carddav/): 
+
+[Errore caricamento pagina](https://radicale.org/3.0.html): 
+
+[Errore caricamento pagina](https://xpenology.org/): 
+
+[Errore caricamento pagina](https://www.balena.io/etcher/): 
+
+[Errore caricamento pagina](https://www.genial.ly/): 
+
+[forum.tomshw.it/](about:blank): 
+
+[Errore caricamento pagina](https://www.lffl.org/2020/12/guida-server-streaming-obs-nginx.html): 
+
+[Errore caricamento pagina](https://www.zerochan.net/): 
+
+[Errore caricamento pagina](https://www.soufeel.it/apparel/bottoms/custom-socks/knee-high-socks): 
+
+[Errore caricamento pagina](https://code.google.com/): 
+
+[Errore caricamento pagina](https://code.google.com/archive/d/code.google.com): 
+
+[Errore caricamento pagina](https://whiteboard.microsoft.com/): 
+
+[Errore caricamento pagina](https://spatial.chat/): 
+
+[Spinoza](http://www.spinoza.it/): 
+
+[Errore caricamento pagina](https://www.lansweeper.com/): 
+
+[Errore caricamento pagina](https://support.google.com/webmasters/answer/47334?hl=en&fbclid=IwAR25ycdCXIuNUo7HJvRuyH4NxLzmDrETjZOXEZOJGfljxsnMzW1znVdH1_4): 
+
+[Errore caricamento pagina](https://howlongtoread.com/): 
+
+[Errore caricamento pagina](https://it.boardgamearena.com/): 
+
+[Errore caricamento pagina](https://algorithm-visualizer.org/): 
+
+[Errore caricamento pagina](https://flourish.studio/pricing/): 
+
+[Errore caricamento pagina](https://neovim.io/): 
+
+[Errore caricamento pagina](https://stackoverflow.com/questions/47958172/server-side-swift-basic-client-server-communication-example-for-ios-and-android): 
+
+[Errore caricamento pagina](https://www.kitura.dev/): 
+
+[Errore caricamento pagina](https://www.primevideo.com/search/ref=atv_dp_pd_dir?phrase=Takeshi%20Koike&ie=UTF8): 
+[w3af - Open Source Web Application Security Scanner](http://w3af.org/): 
+
+[Errore caricamento pagina](https://material-shell.com/#material-shell): 
+
+[material-shell.com/](about:blank): 
+
+[Errore caricamento pagina](https://www.animemusicvideos.org/members/members_myprofile.php?user_id=98760): 
+
+[Errore caricamento pagina](https://www.enablesecurity.com/publications): 
+
+[Errore caricamento pagina](https://www.rtcsec.com/): 
+
+[Errore caricamento pagina](https://pentester.land/): 
+
+[Errore caricamento pagina](https://pastelsky.github.io/curldiff/): 
+
+[Errore caricamento pagina](https://www.hacknos.com/monitoring-vulnhub-walkthrough/): 
+
+[Errore caricamento pagina](https://hacktips.it/tecniche-classificiazione-della-steganografia/): 
