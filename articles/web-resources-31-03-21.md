@@ -705,209 +705,217 @@ __For future updates, I would like to break them up into fields.__
 
 [Video](https://www.videvo.net/stock-video-footage/overlay/): Screen video gratis.
 
-[Errore caricamento pagina](https://geekflare.com/create-application-architecture-diagram/): 
+[Create diagram](https://geekflare.com/create-application-architecture-diagram/): Migliori modi per creare diagrammi di classi online.
 
-[Errore caricamento pagina](https://netsec.ws/?p=337): 
+[Ottenere shell tty](https://netsec.ws/?p=337): Permette di ottenere una shell tty con python.
 
-[Errore caricamento pagina](https://cockpit-project.org/): 
+[cockpit-project.org](https://cockpit-project.org/): Permette la gestione dei server da gui.
 
-[Errore caricamento pagina](https://proxmark.com/#buy-proxmark): 
+[proxmark.com](https://proxmark.com/#buy-proxmark): Tool per penetration testing e sicurezza informatica.
 
-[Errore caricamento pagina](https://shop.hak5.org/products/bash-bunny): 
+[bashBunnyUSB](https://shop.hak5.org/products/bash-bunny): USB per penetration testing.
 
-[Errore caricamento pagina](https://repl.it/): 
+[repl.it](https://repl.it/): Permette di scrivere codice ed eseguirlo online.
 
-[Errore caricamento pagina](https://marketplace.visualstudio.com/items?itemName=alefragnani.separators): 
+[VScode ext](https://marketplace.visualstudio.com/items?itemName=alefragnani.separators): Separatori di codice per VSCODE.
 
-[Errore caricamento pagina](https://www.parrotsec.org/): 
+[ParrotSO](https://www.parrotsec.org/): È un sistema operativo con molti tool già a bordo.
 
-[Errore caricamento pagina](https://keybase.io/): 
+[Messaggistica sicura](https://keybase.io/): Permette di scambiare messaggi in modo anonimo con la crittografia.
 
-[Errore caricamento pagina](https://puri.sm/): 
+[puri.sm](https://puri.sm/): Portatili e nocPC senza brand. Utili per la sicurezza.
 
-[Errore caricamento pagina](https://matrix.to/): 
+[matrix social network](https://matrix.org/): Un social network decentralizzato e sicuro.
 
-[Errore caricamento pagina](https://loremipsum.io/21-of-the-best-placeholder-image-generators/): 
+[Immagini casuali per placeholder](https://loremipsum.io/21-of-the-best-placeholder-image-generators/): Utile quando si devono settare immagini di prova per siti web.
 
-[Fill Murray](http://www.fillmurray.com/): 
+[Immagini casuali per placeholder](http://www.fillmurray.com/): Utile quando si devono settare immagini di prova(di Fill Murray) per siti web.
 
-[Errore caricamento pagina](https://istio.io/): 
+[istio.io](https://istio.io/): Piattaforma per funzioni serverless, come aws e nuclio.
 
-[Errore caricamento pagina](https://vimawesome.com/): 
+[VIM plugin](https://vimawesome.com/): Una buona raccolta di plugin per VIM.
 
-[Errore caricamento pagina](https://dlvrit.com/): 
+[dlvrit.com](https://dlvrit.com/): Permette gestione pubblicazione automatizzata sui social network.
 
-[Errore caricamento pagina](https://bref.sh/): 
+[bref.sh](https://bref.sh/): Eseguire codice php su piattaforme serverless in modo facile.
 
-[Errore caricamento pagina](https://port7777.com/): 
+[port7777.com](https://port7777.com/): AWS remote database su localhost porta 7777.
 
-[obs.ninja/](about:blank): 
+[crackstation.net](https://crackstation.net/): Free password hash crack.
 
-[Errore caricamento pagina](https://crackstation.net/): 
+[HUGO](https://gohugo.io/): Framework per la creazione rapita di siti statici.
 
-[vulnhub.com/entry/potato-suncsr-1,556/#vm](about:blank): 
+[forestry.io](https://forestry.io/): Permette la creazione di siti web da github con git.
 
-[vulnhub.com/entry/monitoring-1,555/](about:blank): 
+[asciiflow.com](https://asciiflow.com/): Permette di disegnare grafici e diagrammi di classi online in modo rapido.
 
-[vulnhub.com/entry/hemisphere-gemini,596/](about:blank): 
+[brew.sh](https://brew.sh/): Packet manager per macOS e wsl.
 
-[gvm-tools.readthedocs.io/en/latest/#](about:blank): 
+[starship.rs](https://starship.rs/): Shell per qualsiasi piattaforma.
 
-[Errore caricamento pagina](https://gohugo.io/): 
+[free-for-dev](https://free-for.dev): Migliori risorse gratuite. Sviluppatori, monitoraggio.
 
-[Errore caricamento pagina](https://forestry.io/): 
+[Ping](https://github.com/orf/gping): Ping ma con grafico.
 
-[Errore caricamento pagina](https://asciiflow.com/): 
+[Configurare pc](https://www.pcspecialist.it/): Vendita e configurazione di pc fissi e notebook.
 
-[Download Nessus | Tenable®](https://www.tenable.com/downloads/nessus?loginAttempted=true): 
+[Inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more](https://github.com/trimstray/the-book-of-secret-knowledge#cli-tools-toc): Risorse di libri, cheatscheets, hacks ecc ecc.
 
-[Errore caricamento pagina](https://www.tenable.com/products/nessus/activation-code): 
+[n8n.io](https://n8n.io/): Permette di automatizzare flussi di lavoro come integromato o IFTTT.
 
-[first.org/cvss/calculator/3.0](about:blank): 
+[freenetproject.org](https://freenetproject.org/): Piattaforma per condividere info e testo in modo decentralizzato.
 
-[Errore caricamento pagina](https://brew.sh/): 
+[society6.com](https://society6.com/): Idee di decorazioni per la casa.
 
-[Errore caricamento pagina](https://starship.rs/): 
+[News sicurezza informatica Ita](https://www.cybersecurity360.it/): News di sicurezza informatica e altro in italiano.
 
-[ripienaar/free-for-dev: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev](https://github.com/ripienaar/free-for-dev#monitoring): 
+[flourish.studio](https://flourish.studio/): Permette di creare diagrammi di dati in modo rapido e assai belli.
 
-[orf/gping: Ping, but with a graph](https://github.com/orf/gping): 
+[TOR url search](https://ahmia.fi/): Permette di cercare url di risorse presenti su tor.
 
-[Errore caricamento pagina](https://www.freepcitalia.com/): 
+[stackbit.com](https://www.stackbit.com/): Permette di creare siti web statici in modo rapido. 
 
-[Errore caricamento pagina](https://www.pcspecialist.it/): 
+[Temi siti web statici](https://jamstackthemes.dev/): Molti temi per le piattaforme elencate.
 
-[Errore caricamento pagina](https://www.ollo.it/): 
+[News Hacker](https://www.hackingarticles.in/): News hackeraggio e mondo della sicurezza.
 
-[ComodoSecurity/openedr: Open EDR public repository](https://github.com/ComodoSecurity/openedr): 
+[WindowsActivator](https://github.com/massgravel/Microsoft-Activation-Scripts): Attivatori per windows10, server e office.
 
-[trimstray/the-book-of-secret-knowledge: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.](https://github.com/trimstray/the-book-of-secret-knowledge#cli-tools-toc): 
+[SVG path editor](https://yqnn.github.io/svg-path-editor/): Permette di ottenere codice svg da aggiungere in pagine html.
 
-[Errore caricamento pagina](https://n8n.io/): 
+[Tutorial ITA](https://noviello.it/): Molte risorse e tutorial per sysadmin e developers.
 
-[Errore caricamento pagina](https://freenetproject.org/): 
+[Chiavi Windows 10](https://it.bobkeys.com/microsoft-windows-10-pro-oem-cd-key-global-one.html#SaddyTech): Qui è possibile comprare chiavi windows 10.
 
-[Errore caricamento pagina](https://www.nasm.us/): 
+[FontFamily](https://www.marksimonson.com/fonts/view/anonymous-pro): Bellissimo font da usare.
 
-[.:: Phrack Magazine ::.](http://phrack.org/issues/49/14.html): 
+[algorithm-visualizer.org](https://algorithm-visualizer.org/greedy/boyermoores-majority-vote): Molti algoritmi visti graficamente.
 
-[Errore caricamento pagina](https://society6.com/): 
+[cryptpad.fr](https://cryptpad.fr/index.html): Permette di scrivere codice, word, documenti, tabelle e condividerli in modo criptato.
 
-[Errore caricamento pagina](https://riccardo.im/): 
+[News linux](https://www.linuxtoday.com/): Miglior sito per news sul mondo linux.
 
-[Errore caricamento pagina](https://www.cybersecurity360.it/): 
+[FOCA](https://www.elevenpaths.com/labstools/foca/index.html): Permette di trovare informazioni utili nei file.
 
-[Errore caricamento pagina](https://www.autudu.it/come-ordinare-le-tue-foto-un-attimo/): 
+[nodistribute.com](https://nodistribute.com/): Permette di scansionare un file.
 
-[Errore caricamento pagina](https://flourish.studio/): 
+[crt.sh](https://crt.sh/): Controlla certificati dominio.
 
-[Hacking Tor links — tor link](http://torlinks.biz/hacking-tor-links.html): 
+[App-ideas](https://github.com/florinpop17/app-ideas): Idea per progetti app, per allenare le skill di sviluppo applicazioni.
 
-[Errore caricamento pagina](https://ahmia.fi/): 
+[Registro delle Opposizioni](http://www.registrodelleopposizioni.it/it): Scriversi qui per non farsi chiamare dai call center.
 
-[Errore caricamento pagina](https://www.netlify.com/): 
+[asciinema.org](https://asciinema.org/): Permette di condividere in live la propria sessione di terminale.
 
-[Errore caricamento pagina](https://www.stackbit.com/): 
+[webex.com](https://www.webex.com/): Tool per videoconferenze.
 
-[Errore caricamento pagina](https://jamstackthemes.dev/): 
+[gotomeeting.com](https://www.gotomeeting.com/it-it): Tool per videoconferenze.
 
-[offensive-security/exploitdb-bin-sploits: Exploit Database binary exploits located in the /sploits directory](https://github.com/offensive-security/exploitdb-bin-sploits): 
+[levels.fyi](https://www.levels.fyi/SE/Google/Facebook/Microsoft#): Retribuzioni delle grande aziende per livello di competenze.
 
-[Errore caricamento pagina](https://www.hackingarticles.in/): 
+[coderpad.io](https://coderpad.io/): Permette di scrivere codice ed eseguirlo online.
 
-[Errore caricamento pagina](https://www.vulnhub.com/entry/the-planets-mercury,544/): 
+[varnish-cache.org](https://varnish-cache.org/): HTTP cache.
 
-[Errore caricamento pagina](https://omnimo.info/): 
+[Wiki interessante](https://it.wikipedia.org/wiki/Rasoio_di_Occam): Principio rasoio di Occam interessante.
 
-[Errore caricamento pagina](https://www.vulnhub.com/entry/cherry-1,552/): 
+[Wiki interessante](https://it.wikipedia.org/wiki/KISS_(principio)): Principio KISS interessante.
 
-[Errore caricamento pagina](https://www.vulnhub.com/entry/tenderfoot-1,581/): 
+[exercism.io](https://exercism.io/#explore-languages): Provare e imparare nuovi linguaggi di programmazione.
 
-[Errore caricamento pagina](https://www.vulnhub.com/entry/cheesey-cheeseyjack,578/): 
+[sherlock-project](https://github.com/sherlock-project/sherlock): Trovare informazioni sui social network per OSINT.
 
-[Errore caricamento pagina](https://www.vulnhub.com/entry/hemisphere-lynx,577/): 
+[garr.tv](https://www.garr.tv/): Video interessanti su computer scienze.
 
-[Errore caricamento pagina](https://issuu.com/): 
+[10 best game](https://github.blog/2020-10-11-top-ten-games-from-the-js13k-2020-competition/): Migliori giochi sviluppati per una competizione.
 
-[massgravel/Microsoft-Activation-Scripts: A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, less antivirus detection and user-friendliness.](https://github.com/massgravel/Microsoft-Activation-Scripts): 
+[dribble.com](https://dribbble.com/leftaligned): Ispirazione.
 
-[Errore caricamento pagina](https://colab.research.google.com/drive/11z58bl3meSzo6kFqkahMa35G5jmh2Wgt): 
+[Tech interview](https://yangshun.github.io/tech-interview-handbook/): Tantissimi suggerimenti per colloqui.
 
-[chatwoot/chatwoot: Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬](https://github.com/chatwoot/chatwoot): 
+[bleachbit.org](https://www.bleachbit.org/): Permette di eliminare file in modo rapido e sicuro.
 
-[Mte90 (Daniele Scasciafratte)](https://github.com/Mte90): 
+[roadmap.sh](https://roadmap.sh/): Permette di vedere mappe concettuali su un determinato percorso.
 
-[Errore caricamento pagina](https://www.guardicore.com/infectionmonkey/): 
+[inonda.com](https://www.inonda.com/it/): Creare una cloud radio.
 
-[Errore caricamento pagina](https://yqnn.github.io/svg-path-editor/): 
+[audioburst.com](https://search.audioburst.com/): Suggerisce musica per qualsiasi attività.
 
-[Errore caricamento pagina](https://noviello.it/): 
+[findsounds.com](https://www.findsounds.com/): Trova e suggerisce musica.
 
-[Errore caricamento pagina](https://it.bobkeys.com/microsoft-windows-10-pro-oem-cd-key-global-one.html#SaddyTech): 
+[Directed Graph Editor](http://bl.ocks.org/rkirsling/5001347): Permette di disegnare grafi direzionali.
 
-[Wonderfl ActionScript Archive :: Dead Code Preservation](http://wa.zozuar.org/): 
+[Errore caricamento pagina](https://bl.ocks.org/): Permette di vedere e creare grafici interessanti.
 
-[Errore caricamento pagina](https://www.marksimonson.com/fonts/view/anonymous-pro): 
+[socket.io](https://socket.io/): Implementa comunicazioni unidirezionali.
 
-[Errore caricamento pagina](https://algorithm-visualizer.org/greedy/boyermoores-majority-vote): 
+[expressjs.com](https://expressjs.com/it/): Web framework per node.js.
 
-[Errore caricamento pagina](https://cryptpad.fr/index.html): 
+[Errore caricamento pagina](https://www.exploit-db.com/google-hacking-database): 
 
-[Errore caricamento pagina](https://www.blackhat.com/us-20/): 
+[Errore caricamento pagina](https://www.phacility.com/phabricator/): 
 
-[Errore caricamento pagina](https://www.linuxtoday.com/): 
+[Errore caricamento pagina](https://getgophish.com/): 
 
-[Errore caricamento pagina](https://osintframework.com/): 
+[Errore caricamento pagina](https://joinmastodon.org/): 
 
-[Errore caricamento pagina](https://www.elevenpaths.com/labstools/foca/index.html): 
+[Errore caricamento pagina](https://bigbluebutton.org/): 
 
-[Errore caricamento pagina](https://www.kismetwireless.net/): 
+[Errore caricamento pagina](https://wp-cli.org/): 
 
-[Errore caricamento pagina](https://nodistribute.com/): 
+[Errore caricamento pagina](https://www.linux.it/): 
 
-[Errore caricamento pagina](https://crt.sh/): 
+[Errore caricamento pagina](https://rocket.chat/): 
 
-[florinpop17/app-ideas: A Collection of application ideas which can be used to improve your coding skills.](https://github.com/florinpop17/app-ideas): 
+[Errore caricamento pagina](https://tagai.io/pricing): 
 
-[Errore caricamento pagina](https://hideandsec.sh/): 
+[Errore caricamento pagina](https://www.thelandingfactory.com/): 
 
-[Errore caricamento pagina](https://code.kryo.se/iodine/): 
+[Errore caricamento pagina](https://www.tecmint.com/install-openlitespeed-in-centos-8/): 
 
-[Errore caricamento pagina](https://www.typeform.com/): 
+[Errore caricamento pagina](https://www.cyberciti.biz/mobile-devices/android/how-to-push-send-message-to-ios-and-android-from-linux-cli/):
 
-[Errore caricamento pagina](https://it.wikipedia.org/wiki/Mata_Hari): 
+[Errore caricamento pagina](https://www.amcharts.com/): 
 
-[Errore caricamento pagina](https://medium.com/tap-to-dismiss/informative-decisional-b2ed272b4696): 
+[Errore caricamento pagina](https://www.rapid7.com/): 
 
-[Home Page | Registro delle Opposizioni](http://www.registrodelleopposizioni.it/it): 
+[Errore caricamento pagina](https://www.first.org/cvss/calculator/3.0#CVSS:3.0/AV:N/AC:H/PR:H/UI:N/S:C/C:L/I:H/A:H): 
 
-[Errore caricamento pagina](https://asciinema.org/): 
+[Errore caricamento pagina](https://html5up.net/): 
 
-[Errore caricamento pagina](https://www.webex.com/): 
+[Errore caricamento pagina](https://letterboxd.com/): 
 
-[Errore caricamento pagina](https://www.gotomeeting.com/it-it): 
+[Errore caricamento pagina](https://www.clamav.net/): 
 
-[Errore caricamento pagina](https://elixir-lang.org/getting-started/introduction.html): 
+[Errore caricamento pagina](https://www.ecamm.com/mac/ecammlive/): 
 
-[Errore caricamento pagina](https://www.levels.fyi/SE/Google/Facebook/Microsoft#): 
+[Errore caricamento pagina](https://apps.apple.com/it/app/promovie-recorder/id1076481548): 
 
-[Errore caricamento pagina](https://coderpad.io/): 
+[Errore caricamento pagina](https://www.radiodj.ro/?s=scheduler&x=0&y=0): 
 
-[Errore caricamento pagina](https://varnish-cache.org/): 
+[Errore caricamento pagina](https://it.wikipedia.org/wiki/Respirianesimo): 
 
-[Errore caricamento pagina](https://www.domaintools.com/): 
+[Errore caricamento pagina](https://vb-audio.com/Voicemeeter/): 
 
-[Errore caricamento pagina](https://it.wikipedia.org/wiki/Rasoio_di_Occam): 
+[cheat.sh/:firstpage](http://cheat.sh/): 
 
-[Errore caricamento pagina](https://it.wikipedia.org/wiki/KISS_(principio)): 
+[Errore caricamento pagina](https://wallpaperscraft.com/): 
 
-[Errore caricamento pagina](https://exercism.io/#explore-languages): 
+[Errore caricamento pagina](https://unsplash.com/t/experimental): 
 
-[sherlock-project/sherlock: 🔎 Hunt down social media accounts by username across social networks](https://github.com/sherlock-project/sherlock): 
+[Errore caricamento pagina](https://loading.io/progress/): 
 
-[Errore caricamento pagina](https://digi.ninja/projects/zonetransferme.php): 
+[Errore caricamento pagina](https://tunein.com/): 
 
-[Errore caricamento pagina](https://mibbit.com/): 
+[Errore caricamento pagina](https://opensource.com/): 
+
+[Errore caricamento pagina](https://www.pramp.com/#/): 
+
+[Errore caricamento pagina](https://www.splunk.com/): 
+
+[Errore caricamento pagina](https://www.portaledelverde.it/enciclopedia/orto/peperoncini-piccanti/peperoncino-acrata/): 
+
+[marktext/marktext: 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.](https://github.com/marktext/marktext): 
 
 [Errore caricamento pagina](https://www.statuscake.com/): 
 
@@ -968,104 +976,6 @@ __For future updates, I would like to break them up into fields.__
 [Errore caricamento pagina](https://prometheus.io/): 
 
 [Errore caricamento pagina](https://wp-cli.org/it/): 
-
-[Errore caricamento pagina](https://www.garr.tv/): 
-
-[Errore caricamento pagina](https://github.blog/2020-10-11-top-ten-games-from-the-js13k-2020-competition/): 
-
-[Errore caricamento pagina](https://dribbble.com/leftaligned): 
-
-[Errore caricamento pagina](https://yangshun.github.io/tech-interview-handbook/): 
-
-[Errore caricamento pagina](https://www.bleachbit.org/): 
-
-[Errore caricamento pagina](https://roadmap.sh/): 
-
-[Errore caricamento pagina](https://www.inonda.com/it/): 
-
-[Errore caricamento pagina](https://search.audioburst.com/): 
-
-[Errore caricamento pagina](https://www.findsounds.com/): 
-
-[Directed Graph Editor - bl.ocks.org](http://bl.ocks.org/rkirsling/5001347): 
-
-[Errore caricamento pagina](https://codepen.io/): 
-
-[Errore caricamento pagina](https://bl.ocks.org/): 
-
-[Errore caricamento pagina](https://socket.io/): 
-
-[Errore caricamento pagina](https://expressjs.com/it/): 
-
-[Errore caricamento pagina](https://www.exploit-db.com/google-hacking-database): 
-
-[Errore caricamento pagina](https://www.phacility.com/phabricator/): 
-
-[Errore caricamento pagina](https://getgophish.com/): 
-
-[Errore caricamento pagina](https://joinmastodon.org/): 
-
-[Errore caricamento pagina](https://bigbluebutton.org/): 
-
-[Errore caricamento pagina](https://wp-cli.org/): 
-
-[Errore caricamento pagina](https://www.linux.it/): 
-
-[Errore caricamento pagina](https://rocket.chat/): 
-
-[Errore caricamento pagina](https://tagai.io/pricing): 
-
-[Errore caricamento pagina](https://www.odoo.com/it_IT/): 
-
-[Errore caricamento pagina](https://mycollab.com/download/): 
-
-[Errore caricamento pagina](https://www.thelandingfactory.com/): 
-
-[Errore caricamento pagina](https://www.tecmint.com/install-openlitespeed-in-centos-8/): 
-
-[Errore caricamento pagina](https://www.cyberciti.biz/mobile-devices/android/how-to-push-send-message-to-ios-and-android-from-linux-cli/):
-
-[Errore caricamento pagina](https://www.amcharts.com/): 
-
-[Errore caricamento pagina](https://www.rapid7.com/): 
-
-[Errore caricamento pagina](https://www.first.org/cvss/calculator/3.0#CVSS:3.0/AV:N/AC:H/PR:H/UI:N/S:C/C:L/I:H/A:H): 
-
-[Errore caricamento pagina](https://html5up.net/): 
-
-[Errore caricamento pagina](https://letterboxd.com/): 
-
-[Errore caricamento pagina](https://www.clamav.net/): 
-
-[Errore caricamento pagina](https://www.ecamm.com/mac/ecammlive/): 
-
-[Errore caricamento pagina](https://apps.apple.com/it/app/promovie-recorder/id1076481548): 
-
-[Errore caricamento pagina](https://www.radiodj.ro/?s=scheduler&x=0&y=0): 
-
-[Errore caricamento pagina](https://it.wikipedia.org/wiki/Respirianesimo): 
-
-[Errore caricamento pagina](https://vb-audio.com/Voicemeeter/): 
-
-[cheat.sh/:firstpage](http://cheat.sh/): 
-
-[Errore caricamento pagina](https://wallpaperscraft.com/): 
-
-[Errore caricamento pagina](https://unsplash.com/t/experimental): 
-
-[Errore caricamento pagina](https://loading.io/progress/): 
-
-[Errore caricamento pagina](https://tunein.com/): 
-
-[Errore caricamento pagina](https://opensource.com/): 
-
-[Errore caricamento pagina](https://www.pramp.com/#/): 
-
-[Errore caricamento pagina](https://www.splunk.com/): 
-
-[Errore caricamento pagina](https://www.portaledelverde.it/enciclopedia/orto/peperoncini-piccanti/peperoncino-acrata/): 
-
-[marktext/marktext: 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.](https://github.com/marktext/marktext): 
 
 [Errore caricamento pagina](https://be.live/): 
 
@@ -1217,7 +1127,5 @@ __For future updates, I would like to break them up into fields.__
 [Errore caricamento pagina](https://pentester.land/): 
 
 [Errore caricamento pagina](https://pastelsky.github.io/curldiff/): 
-
-[Errore caricamento pagina](https://www.hacknos.com/monitoring-vulnhub-walkthrough/): 
 
 [Errore caricamento pagina](https://hacktips.it/tecniche-classificiazione-della-steganografia/): 
