@@ -851,135 +851,101 @@ __For future updates, I would like to break them up into fields.__
 
 [expressjs.com](https://expressjs.com/it/): Web framework per node.js.
 
-[Errore caricamento pagina](https://www.exploit-db.com/google-hacking-database): 
+[Public Database on Google](https://www.exploit-db.com/google-hacking-database): 
 
-[Errore caricamento pagina](https://www.phacility.com/phabricator/): 
+[phacility.com](https://www.phacility.com/phabricator/): Permette di scrivere codice, rivederlo e condividerlo.
 
-[Errore caricamento pagina](https://getgophish.com/): 
+[getgophish.com](https://getgophish.com/): Framework per il phishing open-source.
 
-[Errore caricamento pagina](https://joinmastodon.org/): 
+[Mastodont Social Network](https://joinmastodon.org/): Un particolare social network, da testare.
 
-[Errore caricamento pagina](https://bigbluebutton.org/): 
+[bigbluebutton.org](https://bigbluebutton.org/): Piattaforma con corsi, tipo udemy.
 
-[Errore caricamento pagina](https://wp-cli.org/): 
+[Cli Wordpress](https://wp-cli.org/): Command line interface per wordpress.
 
-[Errore caricamento pagina](https://www.linux.it/): 
+[rocket.chat](https://rocket.chat/): Una chat online veramente ben fatta.
 
-[Errore caricamento pagina](https://rocket.chat/): 
+[tagai.io](https://tagai.io): Piattaforma per gestione e analisi dati.
 
-[Errore caricamento pagina](https://tagai.io/pricing): 
+[thelandingfactory.com](https://www.thelandingfactory.com/): Soluzioni per design web.
 
-[Errore caricamento pagina](https://www.thelandingfactory.com/): 
+[openlitespeed WebServer](https://www.tecmint.com/install-openlitespeed-in-centos-8/): Installazione di un web server con una interfaccia per la configurazione.
 
-[Errore caricamento pagina](https://www.tecmint.com/install-openlitespeed-in-centos-8/): 
+[amcharts.com](https://www.amcharts.com/): Grafici e mappe con javascript.
 
-[Errore caricamento pagina](https://www.cyberciti.biz/mobile-devices/android/how-to-push-send-message-to-ios-and-android-from-linux-cli/):
+[rapid7.com](https://www.rapid7.com/): Piattaforma cloud per sicurezza cloud.
 
-[Errore caricamento pagina](https://www.amcharts.com/): 
+[html5 Template](https://html5up.net/): Template per html5 free.
 
-[Errore caricamento pagina](https://www.rapid7.com/): 
+[letterboxd.com](https://letterboxd.com/): Permette di tenere traccia dei film visti.
 
-[Errore caricamento pagina](https://www.first.org/cvss/calculator/3.0#CVSS:3.0/AV:N/AC:H/PR:H/UI:N/S:C/C:L/I:H/A:H): 
+[clamav.net](https://www.clamav.net/): Antivius.
 
-[Errore caricamento pagina](https://html5up.net/): 
+[ecamm.com](https://www.ecamm.com/mac/ecammlive/): Condivisione stream live su vari social contemporaneamente.
 
-[Errore caricamento pagina](https://letterboxd.com/): 
+[Cose interessanti](https://it.wikipedia.org/wiki/Respirianesimo): Respirianesimo.
 
-[Errore caricamento pagina](https://www.clamav.net/): 
+[virtual mixer](https://vb-audio.com/Voicemeeter/): Un mixer virtuale per la gestione delle uscite audio aux.
 
-[Errore caricamento pagina](https://www.ecamm.com/mac/ecammlive/): 
+[cheat.sh](http://cheat.sh/): Utiliti che aiuta nell'uso della shell linux, cli, richiamabile tramite curl.
 
-[Errore caricamento pagina](https://apps.apple.com/it/app/promovie-recorder/id1076481548): 
+[wallpaperscraft.com](https://wallpaperscraft.com/): Ottimi sfondi per il desktop gratis.
 
-[Errore caricamento pagina](https://www.radiodj.ro/?s=scheduler&x=0&y=0): 
+[loading.io](https://loading.io/progress/): Repo github per la creazione di loading bar.
 
-[Errore caricamento pagina](https://it.wikipedia.org/wiki/Respirianesimo): 
+[tunein.com](https://tunein.com/): Applicazione tipo spotify, ad alta qualità.
 
-[Errore caricamento pagina](https://vb-audio.com/Voicemeeter/): 
+[opensource.com](https://opensource.com/): Tips e trick per mettere in sicurezza server linux.
 
-[cheat.sh/:firstpage](http://cheat.sh/): 
+[pramp.com](https://www.pramp.com/#/): Utili per imparare nuove skills.
 
-[Errore caricamento pagina](https://wallpaperscraft.com/): 
+[splunk.com](https://www.splunk.com/): Piattaforma cloud per la sicurezza cloud.
 
-[Errore caricamento pagina](https://unsplash.com/t/experimental): 
+[Peperoncini](https://www.portaledelverde.it/enciclopedia/orto/peperoncini-piccanti/peperoncino-acrata/): Un portale che permette di vedere quando e cosa piantare.
 
-[Errore caricamento pagina](https://loading.io/progress/): 
+[marktext](https://github.com/marktext/marktext): Editor per markdown.
 
-[Errore caricamento pagina](https://tunein.com/): 
+[statuscake.com](https://www.statuscake.com/): Monitoring di siti web.
 
-[Errore caricamento pagina](https://opensource.com/): 
+[Status page](https://www.hackthissite.org/news/view/718): Creare status page with github pages.
 
-[Errore caricamento pagina](https://www.pramp.com/#/): 
+[Blog di tecnologia](https://gizblog.it/): Un blog sulla tecnologia.
 
-[Errore caricamento pagina](https://www.splunk.com/): 
+[vidarholen.net](https://www.vidarholen.net/contents/index.html): Un blog con molte risorse sul mondo tech.
 
-[Errore caricamento pagina](https://www.portaledelverde.it/enciclopedia/orto/peperoncini-piccanti/peperoncino-acrata/): 
+[shellcheck.net](https://www.shellcheck.net/): Trovare errori nei bash script.
 
-[marktext/marktext: 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.](https://github.com/marktext/marktext): 
+[remote.it](https://remote.it/): Permette di mettere in sicurezza la tua lan per l'accesso a cloud.
 
-[Errore caricamento pagina](https://www.statuscake.com/): 
+[robtex.com](https://www.robtex.com/): Permette di cercare cose in base a indirizzi ip o hostname.
 
-[Errore caricamento pagina](https://www.hackthissite.org/news/view/718): 
+[marp.app](https://marp.app/): Creare slide e presentazioni con markdown.
 
-[Errore caricamento pagina](https://hackthissite.org/): 
+[Non commettere errori](https://yourlogicalfallacyis.com/it): Fallacie lessicali.
 
-[Errore caricamento pagina](https://gizblog.it/): 
+[Bacon number](https://oracleofbacon.org/): Calcola il bacon number.
 
-[Errore caricamento pagina](https://www.vidarholen.net/contents/index.html): 
+[nethserver.org](https://www.nethserver.org/): Gestione server linux.
 
-[Errore caricamento pagina](https://www.shellcheck.net/): 
+[Vim modificato](https://www.spacemacs.org/): Un bel editor con stile vim.
 
-[Errore caricamento pagina](https://remote.it/): 
+[runnable.com](https://runnable.com/docker/java/dockerize-your-java-application): Come conteinerizzare una java application.
 
-[Errore caricamento pagina](https://www.robtex.com/): 
+[anaconda.com](https://www.anaconda.com/): Il mondo per l'intelligenza artificiale.
 
-[Errore caricamento pagina](https://marp.app/): 
+[jupyther.org](https://jupyter.org/): Lavorare con l'intellingenza artificiale al di sopra dei linguaggi
 
-[Errore caricamento pagina](https://yourlogicalfallacyis.com/it): 
+[openml.org](https://www.openml.org/): Machine learning.
 
-[Errore caricamento pagina](https://oracleofbacon.org/): 
+[Perlatecnica - Associazione no profit](http://www.perlatecnica.it/): Bella iniziativa per promuovere l'alfabetizzazione digitale.
 
-[Errore caricamento pagina](https://video.linux.it/videos/recently-added): 
+[Videocall gratis](https://iorestoacasa.work/index.html): Software gratis per videochiamate di gruppo libere.
 
-[Errore caricamento pagina](https://www.nethserver.org/): 
+[prometheus.io](https://prometheus.io/): Monitoring di applicazioni open source.
 
-[Errore caricamento pagina](https://www.spacemacs.org/): 
+[be.live](https://be.live/): Piattaforma streaming.
 
-[Errore caricamento pagina](https://www.youtube.com/c/PieroSavastano/videos): 
-
-[Errore caricamento pagina](https://video.linux.it/): 
-
-[Errore caricamento pagina](https://runnable.com/docker/java/dockerize-your-java-application): 
-
-[Errore caricamento pagina](https://www.anaconda.com/): 
-
-[Errore caricamento pagina](https://jupyter.org/): 
-
-[Errore caricamento pagina](https://www.openml.org/): 
-
-[Errore caricamento pagina](https://www.sourcesense.com/careers): 
-
-[Errore caricamento pagina](https://godotengineitalia.com/): 
-
-[Perlatecnica - Associazione no profit](http://www.perlatecnica.it/): 
-
-[mte90.tech/](http://mte90.tech/): 
-
-[Errore caricamento pagina](https://iorestoacasa.work/index.html): 
-
-[Errore caricamento pagina](https://giuseppetoto.it/): 
-
-[Errore caricamento pagina](https://bitbucket.org/): 
-
-[Errore caricamento pagina](https://daniele.tech/ita/): 
-
-[Errore caricamento pagina](https://prometheus.io/): 
-
-[Errore caricamento pagina](https://wp-cli.org/it/): 
-
-[Errore caricamento pagina](https://be.live/): 
-
-[Errore caricamento pagina](https://lumen5.com/): 
+[lumen5.com](https://lumen5.com/): Creare video per campagne marketing.
 
 [Errore caricamento pagina](https://www.moovly.com/video-templates): 
 
