@@ -46,6 +46,13 @@ h2 {
   color: rgb(219, 219, 219);
 }
 
+#homeButton {
+  font-family: 'IBM Plex Mono';
+  font-weight: normal;
+  font-size: 15px;
+  color: #3300FF;
+}
+
 .full-size {
   position: absolute;
   top: 0;

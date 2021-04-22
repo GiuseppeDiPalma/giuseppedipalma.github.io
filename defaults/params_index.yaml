@@ -17,7 +17,7 @@ metadata:
     contents:
       contacts:
         name: Giuseppe Di Palma
-        shortdescription: System Engineer & Software Development
+        shortdescription: System & Cloud Engineer Software Development
         twitter: https://twitter.com/DiGiuseppePalma
         email: dipalmagiuseppe1@gmail.com
         linkedin: https://www.linkedin.com/in/dplmgspp/
@@ -25,10 +25,10 @@ metadata:
         spotifyPlaylist: https://open.spotify.com/playlist/5WZk2ebdmfXzP55gIu0ChX?si=Zk-75FEJRhaG-PMLCtqx5Q
       introduction:
         - Hi, everybody. I'm Giuseppe , a 26 year old Neapolitan with a passion for computers. This is my personal space.
-        - I am currently completing my master's degree in cloud computing at the University of Salerno..
-        - In my free time I practice juggling and I edit two independent music webzines.
+        - I am currently completing master's degree in cloud computing at the University of Salerno.
+        - In my free time I practice juggling and I manage two independent music webzines.
         - Everything you need to know about me will be available on these pages. 
-        - 😁 
+        - 🚧 Under Construction 🚧
       myresources:
         - link: .\documents\giuseppe-di-palma_ITA_resum%C3%A8.pdf
           title: 📑 [ITA] Curriculum Vitae 🌟NEW🌟
