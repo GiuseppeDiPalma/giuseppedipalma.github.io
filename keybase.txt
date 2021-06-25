@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/ddifettoso
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://giuseppedp.page
+  * I am ddifettoso (https://keybase.io/ddifettoso) on keybase.
+  * I have a public key with fingerprint E690 CE92 B1B7 CC5F 2BFD  E571 9D1B 21F9 3CF9 E5C5
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010103cfc50e49656d96f14b7898fbdc88ea54f1345cd57a0fd8f712bd47e97865750a",
+      "fingerprint": "e690ce92b1b7cc5f2bfde5719d1b21f93cf9e5c5",
+      "host": "keybase.io",
+      "key_id": "9d1b21f93cf9e5c5",
+      "kid": "010103cfc50e49656d96f14b7898fbdc88ea54f1345cd57a0fd8f712bd47e97865750a",
+      "uid": "9d40cb6b3743493376236149deb1aa19",
+      "username": "ddifettoso"
+    },
+    "service": {
+      "hostname": "giuseppedp.page",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1624631303,
+  "expire_in": 157680000,
+  "prev": "7d166f438af35be86ea4d1dd2a5a10452956472edbe274cb0e3d91ce424cdb7a",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMInAnicrVJbSBVBGD4nS+mIZlYQVFTbU6C2szuzl1MvVg9SIFhIQZdt57LHtdzd
+c3bPKbUbBd0wiIKiCxT1kEmBFFkQUpoaplYvhlR0IelOUVkihTQr9tZjMw/D/PPd
+5ufvyMuKxKK1V5/dAOcXDkZ72s6kI5v63+XUC9iltUK8XtjMxg62hTI/MDbbVIgL
+IuBbJhZBIoO6ghSqKxaAWNV0zcKUaBozEbSADBGhSDVFi2qWCiRMocp0VVOQikRT
+KBIs20mwlJeynYDLMkUXCdMlDLBKCLIkbFGGVKBTgCVg6dxRZ4ggTqxy/ZDBw2HT
+ZyW2y2v8YozF+wf+P+dOj/tAkWAFyyqUoS7LqiLJCoA6ZRiYJtBDoM9SjlnDOJpS
+22JB4PqusKNI4PWMTVjY2vAv45iEzQmex6hX4pkJxgW8lBu4xN3CH6uCwPPjITmo
+9UL0VoaNcR0D2w7lzeSMDEv5tusIccCRJLBDYaBIUJGBLMpFAtvm2Slm2CECqYom
+8hX6sAyXVClQFAvKmmnJCDNNYSakgFLJRCYQIZJ0pEBVYhQzSYUEi0ymOiAMSpBQ
+rIa98VnScYW4xmOaCS7p2wnHDNIpJuxov7N+YiQai2RPmhAOWSQ2ueDv6BmVOaNy
+qdHZcTHaem4IPNqbqfJWzth+KVEc+7Vx6ZXgwqn5g7OnNM1oqk0k7+Y3/XRPv88r
+zyMPso+XHd1env5xQH38qn/Xgk+N0Y039lWPDA827I3kmvlFwx+ep06uifT+6i8Y
+0p9+zZqz6Y3dVZNl5I5eq1m3tn7q24riW6ud9w0DZ+f2Zk2/kPuk+vrz/JeJXUe+
+PZxkfCzsezjlivb7RENzfabzQHT3vIFMPL9hpOf+MCyTXnT3layedvXw59nLv6+o
+I9UtddMbC5J72tcf3PmmoPX13A2LZ01OLlp2TFtV2NN2ekl3dnPxbe3m5aGKfXHk
+DLfs3/nq3pfotEMllTMbIxVdrcnSP6V9RBA=
+=t2J0
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ddifettoso
+
+==================================================================
