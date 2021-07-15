@@ -42,7 +42,13 @@ metadata:
         - link: https://radiomusicatv.it/
           title: 📻 Radio music tv [TV Network]
       repos:
-        - link: https://github.com/GiuseppeDiPalma/
+        - link: https://github.com/GiuseppeDiPalma/tssWithSnappy
+          title: Target set selection [Social network]
+        - link: https://github.com/GiuseppeDiPalma/Hpc-LabelPropagation-Project
+          title: (private)Optimize Find communities [High performance computing]
+        - link: https://github.com/GiuseppeDiPalma/LazyCseq-LockFree-benchmak-generator
+          title: LazyCseq Benchmark Generator [Automatic techniques for sw correctness]
+        - link: https://github.com/GiuseppeDiPalma/DSRC-JNI
           title: DSRC Apache Hadoop integration [Advanced operating systems]
         - link: https://github.com/GiuseppeDiPalma/SCIOT-PROG
           title: Domotic Garden [Serverless computing for iot]
