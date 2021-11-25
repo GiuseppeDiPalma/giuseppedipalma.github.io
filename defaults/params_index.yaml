@@ -52,9 +52,9 @@ metadata:
           title: DSRC Apache Hadoop integration [Advanced operating systems]
         - link: https://github.com/GiuseppeDiPalma/SCIOT-PROG
           title: Domotic Garden [Serverless computing for iot]
-        - link: https://github.com/GiuseppeDiPalma/PCPC-PROG
-          title: MPI Words Count [Parallel and Cloud Programming]
         - link: https://github.com/GiuseppeDiPalma/giuseppedipalma_pcpc_2020
+          title: MPI Words Count [Parallel and Cloud Programming]
+        - link: https://github.com/GiuseppeDiPalma/Azure-Cogito-Storage
           title: Azure Cogito Storage [Cloud Computing]
         - link: https://github.com/GiuseppeDiPalma/WebApp-GA
           title: Genetic algorithm [Bachelor thesis]
