@@ -43,21 +43,21 @@ metadata:
           title: 📻 Radio music tv [TV Network]
       repos:
         - link: https://github.com/GiuseppeDiPalma/tssWithSnappy
-          title: Target set selection [Social network]
+          title: Target set selection [Python]
         - link: https://github.com/GiuseppeDiPalma/Hpc-LabelPropagation-Project
-          title: (private)Optimize Find communities [High performance computing]
+          title: (private)Optimize Find communities [Julia, C++]
         - link: https://github.com/GiuseppeDiPalma/LazyCseq-LockFree-benchmak-generator
-          title: LazyCseq Benchmark Generator [Automatic techniques for sw correctness]
+          title: LazyCseq Benchmark Generator [C/C++]
         - link: https://github.com/GiuseppeDiPalma/DSRC-JNI
-          title: DSRC Apache Hadoop integration [Advanced operating systems]
+          title: DSRC Apache Hadoop integration [C]
         - link: https://github.com/GiuseppeDiPalma/SCIOT-PROG
-          title: Domotic Garden [Serverless computing for iot]
+          title: Domotic Garden [Javascript, AWS, Nuclio]
         - link: https://github.com/GiuseppeDiPalma/giuseppedipalma_pcpc_2020
-          title: MPI Words Count [Parallel and Cloud Programming]
+          title: MPI Words Count [C, AWS EC2 Cluster]
         - link: https://github.com/GiuseppeDiPalma/Azure-Cogito-Storage
-          title: Azure Cogito Storage [Cloud Computing]
+          title: Azure Cogito Storage [Java, Azure services]
         - link: https://github.com/GiuseppeDiPalma/WebApp-GA
-          title: Genetic algorithm [Bachelor thesis]
+          title: Genetic algorithm [Python, Django]
       articles:
         - link: .\articles\web-resources-31-03-21.html
           title: My bookmarks list
