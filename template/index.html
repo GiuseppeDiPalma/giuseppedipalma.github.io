@@ -157,14 +157,15 @@
 
                <section id="certifications">
                   <h1>Certifications</h1>
-                  <ul>
+                  <div class="row">
                      $for(page.contents.certifications)$
-                     <!-- <li><a href="$page.contents.certifications.link$">$page.contents.certifications.title$</a></li> -->
-                     <a href="$page.contents.certifications.public_link$">
-                     <li><img src="$page.contents.certifications.link$" alt="Flowers in Chania"></li>
-                     </a>
+                        <div class="column">
+                           <a href="$page.contents.certifications.public_link$">
+                              <li><img src="$page.contents.certifications.link$" alt="Flowers in Chania"></li>
+                           </a>
+                        </div>
                      $endfor$
-                  </ul>
+                  </div>
                </section>
 
             </div>
