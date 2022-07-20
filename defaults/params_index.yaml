@@ -50,8 +50,8 @@ metadata:
           title: LazyCseq Benchmark Generator [C/C++]
         - link: https://github.com/GiuseppeDiPalma/DSRC-JNI
           title: DSRC Apache Hadoop integration [C]
-        - link: https://github.com/GiuseppeDiPalma/SCIOT-PROG
-          title: Domotic Garden [Javascript, AWS, Nuclio]
+        - link: https://github.com/GiuseppeDiPalma/DomoticGarden
+          title: Domotic Garden [AWS, Localstack, IoT]
         - link: https://github.com/GiuseppeDiPalma/giuseppedipalma_pcpc_2020
           title: MPI Words Count [C, AWS EC2 Cluster]
         - link: https://github.com/GiuseppeDiPalma/Azure-Cogito-Storage
