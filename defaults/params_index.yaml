@@ -23,15 +23,12 @@ metadata:
         linkedin: https://www.linkedin.com/in/dplmgspp/
         github: https://github.com/GiuseppeDiPalma
         spotifyPlaylist: https://open.spotify.com/playlist/5WZk2ebdmfXzP55gIu0ChX?si=Zk-75FEJRhaG-PMLCtqx5Q
-      introduction:
-        - Hi, everybody. I'm Giuseppe , a 26 year old Neapolitan with a passion for computers. This is my personal space.
-        - I am currently completing master's degree in cloud computing at the University of Salerno.
-        - In my free time I practice juggling and I manage two independent music webzines.
-        - Everything you need to know about me will be available on these pages. 
-        - 🚧 Under Construction 🚧
+      introduction: 
+        - Hello, I'm [your name], a 28-year-old computer science graduate specializing in cloud computing. This is my personal space.
+        - As a Cloud Solutions Architect, I bring expertise in AWS to design innovative cloud solutions for businesses.
+        - Additionally, I have a passion for music and curate a dedicated blog where journalists share their experiences, reviews and insights on various music topics.
+        - Everything you need to know about me will be available on these pages.
       myresources:
-        - link: .\documents\giuseppe-di-palma_ENG_resum%C3%A8.pdf
-          title: 📑 [ENG] Curriculum Vitae
         - link: .\documents\DIPALMAGIUSEPPE-CV_ita_infocensurate.pdf
           title: 📑 [ITA] Curriculum Vitae 
       collaborations:
