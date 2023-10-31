@@ -17,7 +17,7 @@ metadata:
     contents:
       contacts:
         name: Giuseppe Di Palma
-        shortdescription: System & Cloud Engineer Software Development
+        shortdescription: Cloud Solutions Architect
         twitter: https://twitter.com/DiGiuseppePalma
         email: dipalmagiuseppe1@gmail.com
         linkedin: https://www.linkedin.com/in/dplmgspp/
@@ -29,6 +29,8 @@ metadata:
         - Additionally, I have a passion for music and curate a dedicated blog where journalists share their experiences, reviews and insights on various music topics.
         - Everything you need to know about me will be available on these pages.
       myresources:
+        - link: .\CV.html
+          title: 🖥️ WEB - Curriculum Vitae
         - link: .\documents\DIPALMAGIUSEPPE-CV_ita_infocensurate.pdf
           title: 📑 [ITA] Curriculum Vitae 
       collaborations:
