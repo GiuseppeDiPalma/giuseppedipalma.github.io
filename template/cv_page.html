@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+      <meta charset="utf-8" />
+      <!-- Favicon -->
+      <link rel="shortcut icon" type="image/x-icon" href="assets\images\favicon.ico">
+      $for(page.resources.css)$
+      <link rel="stylesheet" href="$page.resources.css$" />
+      $endfor$
+      <title>$if(title-prefix)$$title-prefix$ – $endif$$pagetitle$</title>
+      <!-- Chrome, Firefox OS and Opera -->
+      <meta name="theme-color" content="#000000">
+      <!-- Windows Phone -->
+      <meta name="msapplication-navbutton-color" content="#000000">
+      <!-- iOS Safari -->
+      <meta name="apple-mobile-web-app-status-bar-style" content="#000000">
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-91610675-6"></script>
+      <script>
+         window.dataLayer = window.dataLayer || [];
+         
+         function gtag() {
+         	dataLayer.push(arguments);
+         }
+         gtag('js', new Date());
+         
+         gtag('config', 'UA-91610675-6');
+      </script>
+      <!-- End - Google Analytics -->
+   </head>
+   <body>
+      <svg id="clip-paths" width="0" height="0" version="1.1" xmlns="http://www.w3.org/2000/svg"
+         xmlns:xlink="http://www.w3.org/1999/xlink">
+         <g></g>
+      </svg>
+      <div id="page">
+         <div>
+            <!--QUESTO è IL CODICE PER IL LOGO E LA SCRITTA A SINISTRA-->
+            
+            <!--QUESTO è IL CODICE PER IL LOGO E LA SCRITTA A SINISTRA-->
+            <div id="content">
+               <section id="introduction">
+                  <h1 class="neon">Intro</h1>
+                  $for(page.contents.introduction)$
+                  $page.contents.introduction$<br>
+                  $endfor$
+               </section>
+               <section id="articles">
+                  <h1>Resources</h1>
+                  <ul>
+                     $for(page.contents.myresources)$
+                     <li><a href="$page.contents.myresources.link$"
+                        target="_blank">$page.contents.myresources.title$</a></li>
+                     $endfor$
+                  </ul>
+               </section>
+               <section id="stost">
+                  <h1>Articles</h1>
+                  <ul>
+                     $for(page.contents.articles)$
+                     <li><a href="$page.contents.articles.link$">$page.contents.articles.title$</a></li>
+                     $endfor$
+                  </ul>
+               </section>
+               <section id="aboutme">
+               <section id="repositories">
+                  <h1>Projects repo</h1>
+                  <ul>
+                     $for(page.contents.repos)$
+                     <li><a href="$page.contents.repos.link$" target="_blank">$page.contents.repos.title$</a></li>
+                     $endfor$
+                  </ul>
+               </section>
+                  <h1>Collaborations</h1>
+                  <ul>
+                     $for(page.contents.collaborations)$
+                     <li><a href="$page.contents.collaborations.link$"
+                        target="_blank">$page.contents.collaborations.title$</a></li>
+                     $endfor$
+                  </ul>
+               </section>
+
+               <section id="certifications">
+                  <h1>Certifications</h1>
+                  <div class="row">
+                     $for(page.contents.certifications)$
+                        <div class="column">
+                           <a href="$page.contents.certifications.public_link$">
+                              <li><img src="$page.contents.certifications.link$" alt="Flowers in Chania"></li>
+                           </a>
+                        </div>
+                     $endfor$
+                  </div>
+               </section>
+
+            </div>
+         </div>
+      </div>
+      </div>
+      <svg id="page-stripes" class="full-size" width="100%" height="100%" version="1.1" xmlns="http://www.w3.org/2000/svg"
+         xmlns:xlink="http://www.w3.org/1999/xlink"></svg>
+      <!--QUESTO è IL CODICE PER L'INTRO CON IL LOGO GIGANTE A TUTTA PAGINA-->
+      <div id="intro" class="full-size">
+         <div id="logo-container" class="full-size">
+            <svg id="logo" width="80" height="80" viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg"
+               preserveAspectRatio="xMidYMid meet">
+               <g>
+                  <title>background</title>
+                  <rect fill="#ffffff" id="canvas_background" height="162" width="162" y="-1" x="-1" />
+               </g>
+               <g>
+                  <title>Layer 1</title>
+                  <g id="svg_1">
+                     <path id="svg_2" d="M0,0v160h160V0H0z M20.4,124.5L7.1,111l33-33.4L6.7,43.8l13.5-13.7l33.4,33.8l0,0l13.3,13.5L20.4,124.5z
+                        M122.2,102.2v22.3
+                        h-66v-22.3H122.2z M153.2,147.2H7.1v-12.7h146.1V147.2z M153.2,111.4h-22.3V89.1h22.3V111.4z
+                        M153.2,68.8h-22.3V46.5h22.3V68.8z
+                        M153.2,23.9H6.7V11.1h146.5V23.9z" />
+                  </g>
+               </g>
+            </svg>
+         </div>
+         <svg id="stripes" class="full-size" width="100%" height="100%" version="1.1" xmlns="http://www.w3.org/2000/svg"
+            xmlns:xlink="http://www.w3.org/1999/xlink"></svg>
+      </div>
+      <!--QUESTO è IL CODICE PER L'INTRO CON IL LOGO GIGANTE A TUTTA PAGINA-->
+      $for(page.resources.js)$
+      <script src="$page.resources.js$"></script>
+      $endfor$
+   </body>
+</html>

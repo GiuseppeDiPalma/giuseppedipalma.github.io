@@ -24,7 +24,7 @@ metadata:
         github: https://github.com/GiuseppeDiPalma
         spotifyPlaylist: https://open.spotify.com/playlist/5WZk2ebdmfXzP55gIu0ChX?si=Zk-75FEJRhaG-PMLCtqx5Q
       introduction: 
-        - Hello, I'm [your name], a 28-year-old computer science graduate specializing in cloud computing. This is my personal space.
+        - Hello, I'm Giuseppe, a 29-year-old computer science graduate specializing in cloud computing. This is my personal space.
         - As a Cloud Solutions Architect, I bring expertise in AWS to design innovative cloud solutions for businesses.
         - Additionally, I have a passion for music and curate a dedicated blog where journalists share their experiences, reviews and insights on various music topics.
         - Everything you need to know about me will be available on these pages.
@@ -64,5 +64,7 @@ metadata:
         - link: .\assets\images\solutions-architect-associate90x90.png
           public_link: https://www.credly.com/badges/552ce15a-9966-4359-8c5e-360097546532/public_url
         - link: .\assets\images\database-90x90.png
-          public_link: https://www.credly.com/badges/6079016a-c705-4959-9d8f-c48998d4137a
+          public_link: https://www.credly.com/badges/6079016a-c705-4959-9d8f-c48998d4137a/public_url
+        - link: .\assets\images\developer90x90.png
+          public_link: https://www.credly.com/badges/8f7d0e80-8fb4-488c-a8ad-e69ddf97b9b2/public_url
       other:
