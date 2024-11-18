@@ -15,5 +15,22 @@ jobs:
           args: >-
             index.md -s -f gfm -t html5 --template=template/index.html --defaults=defaults/params_index.yaml --output index.html
       
-      # - run: echo "Build Sections"
-      # - run: echo "End Github Actions"
+
+      # Aggiungi uno step per configurare Git
+      - name: Configure Git
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+
+      # Aggiungi uno step per fare il commit dei cambiamenti
+      - name: Commit generated HTML
+        run: |
+          git add index.html
+          git commit -m "Generate index.html with Pandoc" || echo "No changes to commit"
+
+      # Aggiungi uno step per fare il push delle modifiche
+      - name: Push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.TOKEN_GITHUB }}
+        run: |
+          git push origin main
