@@ -6,8 +6,6 @@ jobs:
   convert_via_pandoc:
     runs-on: ubuntu-22.04
     steps:
-      - uses: actions/checkout@v4
-      - name: Generate HTML with Pandoc
       - uses: docker://pandoc/core:3.5
         with:
           args: "--help" # gets appended to pandoc command
