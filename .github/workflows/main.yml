@@ -1,19 +1,41 @@
-name: Main Actions
+# name: Main Actions
 
-on: push
-jobs:
-  convert_via_pandoc:
-    runs-on: ubuntu-22.04
-    steps:
-      - run: echo "Start Github Actions"
-      - run: echo "Build Index"
-      - uses: docker://pandoc/core:3.5
-        with:
-          args: >-
-            ../index.md -s -f gfm
-            -t html5 --template=../template/index.html
-            --defaults=../defaults/params_index.yaml
-            --output ../index.html
+# on: push
+# jobs:
+#   convert_via_pandoc:
+#     runs-on: ubuntu-22.04
+#     steps:
+#       - run: echo "Start Github Actions"
+#       - run: echo "Build Index"
+#       - uses: docker://pandoc/core:3.5
+#         with:
+#           args: >-
+#             ../index.md -s -f gfm
+#             -t html5 --template=../template/index.html
+#             --defaults=../defaults/params_index.yaml
+#             --output ../index.html
       
-      - run: echo "Build Sections"
-      - run: echo "End Github Actions"
+#       - run: echo "Build Sections"
+#       - run: echo "End Github Actions"
+
+name: Python package
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["pypy3.10", "3.9", "3.10", "3.11", "3.12", "3.13"]
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+      # You can test your matrix by printing the current Python version
+      - name: Display Python version
+        run: python -c "import sys; print(sys.version)"
