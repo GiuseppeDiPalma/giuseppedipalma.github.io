@@ -7,7 +7,9 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
       - run: echo "Start Github Actions v1"
-      - run: echo "Build Index"
+      - uses: actions/checkout@v4
+
+      - run: echo "Run Pandoc for build Index"
       - uses: docker://pandoc/core:3.5
         with:
           args: >-
