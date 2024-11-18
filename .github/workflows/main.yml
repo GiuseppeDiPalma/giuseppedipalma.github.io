@@ -1,7 +1,6 @@
 name: Main Actions
 
 on: push
-
 jobs:
   convert_via_pandoc:
     runs-on: ubuntu-22.04
