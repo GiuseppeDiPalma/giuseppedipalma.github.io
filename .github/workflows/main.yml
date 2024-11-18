@@ -13,7 +13,7 @@ jobs:
       - uses: docker://pandoc/core:3.5
         with:
           args: >-
-            ../index.md -s -f gfm -t html5 --template=../template/index.html --defaults=/defaults/params_index.yaml --output ../index.html
+            index.md -s -f gfm -t html5 --template=template/index.html --defaults=defaults/params_index.yaml --output index.html
       
       # - run: echo "Build Sections"
       # - run: echo "End Github Actions"
