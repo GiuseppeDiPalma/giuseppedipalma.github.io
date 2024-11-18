@@ -14,3 +14,9 @@ Pandoc + Markdown + Script + HTML5 + CSS * VSCODE = ❤️
 - [ ] How I add new contents;
 - [ ] How add github actions;
 - [ ] coming soon...
+
+# How to build website
+
+```bash
+bash build.sh
+```
