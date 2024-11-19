@@ -24,15 +24,15 @@ metadata:
         github: https://github.com/GiuseppeDiPalma
         spotifyPlaylist: https://open.spotify.com/playlist/5WZk2ebdmfXzP55gIu0ChX?si=Zk-75FEJRhaG-PMLCtqx5Q
       introduction: 
-        - Hello, I'm Giuseppe, a XX-year-old computer science graduate specializing in cloud computing. This is my personal space.
-        - As a Cloud Solutions Architect, I bring expertise in AWS to design innovative cloud solutions for businesses.
+        - Hello, I'm Giuseppe, a 30-year-old Cloud Solutions Architect, graduated in Computer Scienze (spec. Cloud Computing). This is my personal space.
+        - As a Cloud Architect, I bring expertise in AWS to design innovative, secure and efficiently cloud solutions for businesses.
         - Additionally, I have a passion for music and curate a dedicated blog where journalists share their experiences, reviews and insights on various music topics.
         - Everything you need to know about me will be available on these pages.
       myresources:
         - link: .\CV.html
-          title: 🖥️ WEB - Curriculum Vitae
+          title: 🖥️ WEB - Curriculum Vitae (work in progress)
         - link: .\documents\DIPALMAGIUSEPPE-CV_ita_infocensurate.pdf
-          title: 📑 [ITA] Curriculum Vitae 
+          title: 📑 [ITA] Curriculum Vitae (update 19/11/2024)
       collaborations:
         - link: http://www.meetingdelmare.it/
           title: 🚀 Meeting del mare [Independent musical experience]
