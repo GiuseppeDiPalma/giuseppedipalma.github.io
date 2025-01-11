@@ -1,0 +1,35 @@
+/* Contenitore principale: immagini a sinistra, testo a destra */
+#main-container {
+    display: flex;
+    flex-direction: row; /* Disposizione orizzontale */
+    gap: 20px; /* Spaziatura tra immagini e testo */
+    align-items: stretch; /* Entrambe le sezioni occupano la stessa altezza */
+    width: 100%; /* Larghezza totale */
+}
+
+/* Contenitore delle immagini */
+#image-container {
+    display: flex;
+    flex-direction: column; /* Disposizione verticale delle immagini */
+    gap: 20px; /* Spaziatura tra le immagini */
+    flex: 1; /* Occupa una proporzione del layout rispetto al testo */
+    justify-content: center; /* Centra verticalmente le immagini */
+    align-items: center; /* Centra orizzontalmente */
+}
+
+/* Immagini */
+#image-container img {
+    width: 100%; /* Si adatta alla larghezza del contenitore */
+    height: auto; /* Mantiene le proporzioni */
+    max-height: 100%; /* Non esce dal contenitore */
+    object-fit: contain; /* Assicura che l'immagine sia interamente visibile */
+    border: 2px solid #000; /* Bordo per estetica */
+    border-radius: 5px; /* Bordo arrotondato */
+}
+
+/* Contenitore del testo */
+#text-container {
+    flex: 2; /* Il testo occupa più spazio rispetto alle immagini */
+    max-width: 700px; /* Larghezza massima del contenuto di testo */
+    padding: 10px; /* Spaziatura interna per migliorare leggibilità */
+}
