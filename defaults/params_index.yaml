@@ -60,6 +60,8 @@ metadata:
       articles:
         - link: .\articles\web-resources-31-03-21.html
           title: My bookmarks list
+        - link: ./sections/blog/final/testArticle.html
+          title: First article test
       certifications:
         - link: .\assets\images\aws-certified-cloud-practitioner.png
           public_link: https://www.credly.com/badges/a93d62d8-fd44-4c49-866a-513c5e6041b3/public_url
