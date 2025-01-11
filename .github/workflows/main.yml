@@ -15,6 +15,11 @@ jobs:
           args: >-
             index.md -s -f gfm -t html5 --template=template/index.html --defaults=defaults/params_index.yaml --output index.html
       
+      - run: echo "Run Pandoc for build Article"
+      - uses: docker://pandoc/core:3.5
+        with:
+          args: >-
+            ../sections/blog/testArticle.md -f markdown -t html --template=../template/blogArticle/article.html --defaults=../defaults/blogArticle/firstTestArticle.yaml --highlight-style=breezedark --output ../sections/blog/final/testArticle.html
 
       # Git configuration
       - name: Configure Git
