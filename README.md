@@ -28,3 +28,8 @@ bash build.sh
 3. Committo e pusho la pagina .html generata
 
 - Per apportare modifiche al template HTML devo modificare la pagina "/template/blogArticle/article.html"
+
+## TO-DO
+
+- Aggiungere TAG ad ogni articolo (abbellire le quote(>) in markdown con qualcosa lato css)
+- Automatizzare il deploy con github action
