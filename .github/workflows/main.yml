@@ -19,7 +19,7 @@ jobs:
       - uses: docker://pandoc/core:3.5
         with:
           args: >-
-            ../sections/blog/testArticle.md -f markdown -t html --template=../template/blogArticle/article.html --defaults=../defaults/blogArticle/firstTestArticle.yaml --highlight-style=breezedark --output ../sections/blog/final/testArticle.html
+            /sections/blog/testArticle.md -f markdown -t html --template=template/blogArticle/article.html --defaults=defaults/blogArticle/firstTestArticle.yaml --highlight-style=breezedark --output sections/blog/final/testArticle.html
 
       # Git configuration
       - name: Configure Git
