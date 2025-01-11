@@ -8,7 +8,7 @@
 
 ![Prima](../../../assets/images/placeholder2.png)
 
-Peppe *Now I have to open each site and write down what it is!!*
+v1Peppe *Now I have to open each site and write down what it is!!*
 
 __This list is for my order only. it is a collection of all the web resources that I think I will need or have use for in the future. Also, they are great resources at first glance. I will add or cut some of these items over time.__
 
