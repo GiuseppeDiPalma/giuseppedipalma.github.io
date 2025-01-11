@@ -20,3 +20,11 @@ Pandoc + Markdown + Script + HTML5 + CSS * VSCODE = ❤️
 ```bash
 bash build.sh
 ```
+
+## COME
+
+1. Scrivo un file .md uguale a "testArticle.md" nella stessa directory anche
+2. Mi posiziono nella directory utils e lancio bash test.sh
+3. Committo e pusho la pagina .html generata
+
+- Per apportare modifiche al template HTML devo modificare la pagina "/template/blogArticle/article.html"
